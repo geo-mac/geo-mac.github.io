@@ -17,5 +17,5 @@ Prior to returning to repositories I worked as a Project Evaluator & Business An
 
 In the more  distant past I was a Research Assistant and then Research Fellow based  at the [Centre for Digital Library Research](https://www.strath.ac.uk/cdlr/) in the [Department of Computer and Information Sciences](http://www.strath.ac.uk/cis/), [University of Strathclyde](http://www.strath.ac.uk/). 
 
-![https://geo-mac.github.io/george.rdf](https://geo-mac.github.io/images/foaf8015.gif)
+![[https://geo-mac.github.io/george.rdf](https://geo-mac.github.io/george.rdf)](https://geo-mac.github.io/images/foaf8015.gif)
 
