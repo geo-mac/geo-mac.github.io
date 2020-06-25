@@ -1,5 +1,3 @@
-Hello world!
+My name is George.  My interests are in structured open data (esp. within Semantic Web and repository contexts),  information retrieval, distributed digital repositories and  human-computer interaction (HCI).
 
-This site is hosted by GitHub Pages!
-
-Under construction
+I am a [repository manager and developer](https://www.strath.ac.uk/staff/macgregorgeorgemr/) based at the  [University of Strathclyde](http://www.strath.ac.uk/).  I work on our [OAI-PMH](http://www.openarchives.org/pmh/) compliant [institutional repository](https://en.wikipedia.org/wiki/Institutional_repository) (known as [Strathprints](https://strathprints.strath.ac.uk/)), supporting [colleagues](http://www.strath.ac.uk/rkes/) in the delivery our [Current Research Information System (CRIS)](http://www.eurocris.org) and generally supporting institutional activities in the areas of [Open Science](https://en.wikipedia.org/wiki/Open_science) and digital scholarship.  I am part of a small team, known as  "Scholarly Publications & Research Data", which works in the area of repositories, research discovery, research data management and [Open Access](https://en.wikipedia.org/wiki/Open_access). I am also currently completing a PhD in topics surrounding resource discovery at the [iSchool](https://www.strath.ac.uk/research/subjects/computerinformationscience/strathclydeischoolresearchgroup/).
