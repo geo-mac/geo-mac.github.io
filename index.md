@@ -19,3 +19,6 @@ In the more  distant past I was a Research Assistant and then Research Fellow ba
 
 ![[https://geo-mac.github.io/george.rdf](https://geo-mac.github.io/george.rdf)](https://geo-mac.github.io/images/foaf8015.gif)
 
+```
+[![image-text](https://geo-mac.github.io/images/foaf8015.gif)](https://www.strath.ac.uk/)
+```
