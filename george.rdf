@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:rel="http://purl.org/vocab/relationship" xmlns:contact="http://www.w3.org/2000/10/swap/pim/contact#" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<foaf:PersonalProfileDocument rdf:about="http://geo-mac.github.io/george.rdf">
+		<dcterms:title>George Macgregor's FOAF file</dcterms:title>
+		<dcterms:date>2020-06-25</dcterms:date>
+		<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/"/>
+		<foaf:maker rdf:resource="https://purl.org/g3om4c#me"/>
+		<foaf:primaryTopic rdf:resource="#me"/>
+	</foaf:PersonalProfileDocument>
+	
+	<rdf:Description rdf:about="http://purl.org/g3om4c">
+		<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/homepage"/>
+		<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/"/>
+		<owl:sameAs rdf:resource="http://geo-mac.github.io/"/>
+	</rdf:Description>
+	
+	<foaf:Person rdf:about="https://purl.org/g3om4c#me">
+		<foaf:name xml:lang="en">George Macgregor</foaf:name>
+		<foaf:firstName xml:lang="en">George</foaf:firstName>
+		<foaf:surname xml:lang="en">Macgregor</foaf:surname>
+		<foaf:gender>male</foaf:gender>
+		<foaf:depiction rdf:resource="http://personal.strath.ac.uk/george.macgregor/images/front.png"/>
+		<foaf:mbox rdf:resource="mailto:george.macgregor@strath.ac.uk"/>
+		<foaf:homepage rdf:resource="https://purl.org/g3om4c"/>
+		
+		<foaf:workplaceHomepage rdf:resource="http://www.strath.ac.uk/it/"/>
+		<contact:ContactLocation>
+		<!-- Office location at University of Strathclyde! -->
+			<geo:Point geo:lat="55.863789" geo:long="-4.242471"/>			
+		</contact:ContactLocation>
+		<foaf:based_near rdf:resource="http://dbpedia.org/data/George_Square"/>			
+		<rel:descendantOf rdf:resource="http://dbpedia.org/resource/Clan_Gregor"/>
+		<rel:descendantOf rdf:resource="http://dbpedia.org/resource/Thomsen"/>
+		<foaf:publications rdf:resource="http://personal.strath.ac.uk/george.macgregor/stuff.html"/>
+		<foaf:publications rdf:resource="http://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ"/>
+		<foaf:publications rdf:resource="http://academic.research.microsoft.com/Author/18469007"/>
+		<foaf:weblog rdf:resource="http://strathoa.tumblr.com/" dcterms:title="Open Access @ Strathclyde"/>
+		<foaf:weblog rdf:resource="http://www.principlesinpatterns.ac.uk/blog.aspx" dcterms:title="Principles in Pattens (PiP) Project Blog"/>
+		<foaf:weblog rdf:resource="http://ljmuinfostrategy.blogspot.com/" dcterms:title="Information Strategy Group, LJMU - Blog"/>
+		<foaf:holdsAccount>
+     		<foaf:OnlineAccount>
+      			<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/OnlineChatAccount"/>
+      			<foaf:accountServiceHomepage rdf:resource="http://www.skype.com/intl/en-gb/"/>
+      			<foaf:accountName>geo.macgregor</foaf:accountName>
+   			</foaf:OnlineAccount>
+  		</foaf:holdsAccount>
+		<foaf:interest rdf:resource="http://id.loc.gov/authorities/subjects/sh2002000569"/>
+		<foaf:interest rdf:resource="http://id.loc.gov/authorities/subjects/sh2006003967"/>	
+		<foaf:interest rdf:resource="http://id.loc.gov/authorities/subjects/sh96000740"/>
+		<foaf:interest rdf:resource="http://id.loc.gov/authorities/subjects/sh88003229"/>
+		<foaf:interest rdf:resource="http://id.loc.gov/authorities/subjects/sh85066148"/>
+		<foaf:pastProject>
+			<rdf:Description rdf:about="http://hilt.cdlr.strath.ac.uk/" dcterms:title="HILT: High-level Thesaurus project phase IV">
+			</rdf:Description>
+		</foaf:pastProject>
+		<foaf:pastProject>
+			<rdf:Description rdf:about="http://hilt.cdlr.strath.ac.uk/hilt3web/index.html" dcterms:title="HILT: High-level Thesaurus project phase III">
+			</rdf:Description>
+		</foaf:pastProject>
+		<foaf:pastProject>
+			<rdf:Description rdf:about="http://hilt.cdlr.strath.ac.uk/index2.html" dcterms:title="HILT: High-level Thesaurus project phase II">
+			</rdf:Description>
+		</foaf:pastProject>
+		<foaf:pastProject>
+			<rdf:Description rdf:about="http://ccinterop.cdlr.strath.ac.uk/" dcterms:title="CC-interop: COPAC / Clumps Continuing Technical Cooperation Project">
+			</rdf:Description>
+		</foaf:pastProject>
+		<foaf:pastProject>
+			<rdf:Description rdf:about="http://www.didet.ac.uk/" dcterms:title="DIDET: Digital Libraries for Distributed Innovative Design Education and Teamwork">
+			</rdf:Description>
+		</foaf:pastProject>
+		<foaf:pastProject>
+			<rdf:Description rdf:about="http://web.archive.org/web/20030622215646/http://dio.cdlr.strath.ac.uk/" dcterms:title="Strathclyde Digital Information Office">
+			</rdf:Description>
+		</foaf:pastProject>
+
+
+		<foaf:interest>
+			<mo:Genre rdf:about="http://dbpedia.org/resource/Contemporary_classical_music">
+			<dcterms:title>Contemporary classical music</dcterms:title>
+       			<mo:wikipedia rdf:resource="http://en.wikipedia.org/wiki/Contemporary_classical_music"/>
+     			</mo:Genre>
+  		 </foaf:interest>
+
+		<foaf:interest>
+			<mo:Genre rdf:about="http://dbpedia.org/resource/World_music">
+			<dcterms:title>World music</dcterms:title>
+       			<dcterms:subject rdf:resource="http://id.loc.gov/authorities/sh93002569#concept"/>
+       			<mo:wikipedia rdf:resource="http://en.wikipedia.org/wiki/World_music"/>
+     			</mo:Genre>
+  		 </foaf:interest>
+
+		<foaf:interest>
+			<mo:Genre rdf:about="http://dbpedia.org/resource/Jazz">
+			<dcterms:title>Jazz</dcterms:title>
+       			<dcterms:subject rdf:resource="http://id.loc.gov/authorities/sh85069833#concept"/>
+			<mo:wikipedia rdf:resource="http://en.wikipedia.org/wiki/Jazz"/>
+     			</mo:Genre>
+  		 </foaf:interest>
+
+		<!-- Some people I know, collaborate or have collaborated with (and could be bothered encoding!).  Apologies to those that are not here! -->
+
+		<rel:collaboratesWith rdf:resource="https://uk.linkedin.com/in/alan-morrison-b9544a51/#me"/>
+		<rel:collaboratesWith rdf:resource="http://www.strath.ac.uk/staff/slevinalanmr/#me"/>
+		<rel:collaboratesWith rdf:resource="https://twitter.com/alexgspiers#me"/>
+		<rel:collaboratesWith rdf:resource="http://orcid.org/0000-0001-6300-1033#me"/>
+
+		<foaf:knows>
+			<foaf:Person rdf:about="http://orcid.org/0000-0001-6300-1033#me">
+				<foaf:name>de Castro, Pablo</foaf:name>
+				<foaf:account rdf:resource="https://uk.linkedin.com/in/pablo-de-castro-018905a"/>
+				<foaf:account rdf:resource="https://twitter.com/pcastromartin"/>
+			</foaf:Person>
+		</foaf:knows>
+		
+		<foaf:knows>
+			<foaf:Person rdf:about="https://uk.linkedin.com/in/alan-morrison-b9544a51/#me">
+				<foaf:name>Morrison, Alan</foaf:name>
+				<foaf:homepage rdf:resource="https://uk.linkedin.com/in/alan-morrison-b9544a51"/>
+			</foaf:Person>
+		</foaf:knows>
+		
+		<foaf:knows>
+			<foaf:Person rdf:about="http://www.alastairmacgregor.co.uk/#me">
+				<foaf:name>Macgregor, Alastair</foaf:name>
+				<foaf:homepage rdf:resource="http://www.alastairmacgregor.co.uk/"/>
+			</foaf:Person>
+		</foaf:knows>
+		<foaf:knows>
+			<foaf:Person>
+				<foaf:name>Dunsire, Gordon</foaf:name>
+				<foaf:homepage rdf:resource="http://www.gordondunsire.com/"/>
+			</foaf:Person>
+		</foaf:knows>
+		<foaf:knows>
+			<foaf:Person>
+				<foaf:name>Taylor, Chris</foaf:name>
+				<foaf:homepage rdf:resource="https://www.ljmu.ac.uk/about-us/staff-profiles/arts-professional-and-social-studies/liverpool-business-school/chris-taylor"/>
+			</foaf:Person>
+		</foaf:knows>
+		<foaf:knows>
+			<foaf:Person>
+				<foaf:name>Macgregor, Kenneth</foaf:name>
+				<foaf:homepage rdf:resource="https://uk.linkedin.com/in/kenneth-macgregor-59019647"/>
+			</foaf:Person>
+		</foaf:knows>
+		<foaf:knows>
+			<foaf:Person rdf:about="https://twitter.com/j1mturner">
+				<foaf:name>Turner, Jim</foaf:name>
+				<foaf:homepage rdf:resource="https://j1mturner.wordpress.com/"/>
+				
+			</foaf:Person>
+			</foaf:knows>
+		<foaf:knows>
+			<foaf:Person rdf:about="https://twitter.com/francismuir">
+				<foaf:name>Muir, Francis</foaf:name>
+				<foaf:homepage rdf:resource="http://www.francismuir.co.uk/"/>
+				<foaf:weblog rdf:resource="http://francismuir.me.uk/"/>
+				<foaf:workplaceHomepage rdf:resource="https://www.ljmu.ac.uk/about-us/staff-profiles/arts-professional-and-social-studies/liverpool-business-school/francis-muir"/>
+			</foaf:Person>
+		</foaf:knows>
+		<foaf:knows>
+			<foaf:Person rdf:about="http://about.me/alex.spiers#me">
+				<foaf:name>Spiers, Alex</foaf:name>
+				<foaf:homepage rdf:resource="http://about.me/alex.spiers"/>
+			</foaf:Person>
+			</foaf:knows>
+		<foaf:knows>
+			<foaf:Person>
+				<foaf:name>OFarrell, Jack</foaf:name>
+				<foaf:homepage rdf:resource="https://www.ljmu.ac.uk/about-us/staff-profiles/arts-professional-and-social-studies/liverpool-business-school/jack-ofarrell"/>
+			</foaf:Person>
+		</foaf:knows>
+
+		<foaf:knows>
+			<foaf:Person rdf:about="http://www.strath.ac.uk/staff/grahamemmams#me">
+				<foaf:name>Graham, Emma</foaf:name>
+				<foaf:mbox rdf:resource="mailto:e.graham@strath.ac.uk"/>
+				<foaf:homepage rdf:resource="http://www.strath.ac.uk/staff/grahamemmams/"/>
+			</foaf:Person>
+
+		</foaf:knows>
+
+		
+		<foaf:knows>
+			<foaf:Person rdf:about="http://www.strath.ac.uk/staff/josephanumrs/#me">
+				<foaf:name>Joseph, Anu</foaf:name>
+				<foaf:mbox rdf:resource="mailto:anu.joseph@strath.ac.uk"/>
+				<foaf:homepage rdf:resource="http://www.strath.ac.uk/staff/josephanumrs/"/>
+			</foaf:Person>
+
+		</foaf:knows>
+		
+		<foaf:knows>
+			<foaf:Person rdf:about="https://uk.linkedin.com/in/nicholas-joint-2255a448/#me">
+				<foaf:name>Joint, Nick</foaf:name>
+				<foaf:homepage rdf:resource="https://uk.linkedin.com/in/nicholas-joint-2255a448/"/>
+				<foaf:mbox rdf:resource="mailto:n.c.joint@strath.ac.uk"/>
+				<foaf:workplaceHomepage rdf:resource="http://www.strath.ac.uk/staff/jointnicholasmr/"/>
+			</foaf:Person>
+		</foaf:knows>
+
+		<foaf:knows>
+			<foaf:Person rdf:about="http://arts-ed.csu.edu.au/schools/sis/staff/profiles/lecturers/jake-wallis/#me">
+				<foaf:name>Wallis, Jake</foaf:name>
+				<foaf:homepage rdf:resource="http://arts-ed.csu.edu.au/schools/sis/staff/profiles/lecturers/jake-wallis/"/>
+				<foaf:depiction rdf:resource="http://arts-ed.csu.edu.au/__data/assets/image/0007/225457/JW_0834.jpg"/>
+				<foaf:weblog rdf:resource="https://twitter.com/jake_wallis"/>
+				<foaf:weblog rdf:resource="http://informercialisation.blogspot.com/" dcterms:title="Informercialisation"/>
+			</foaf:Person>
+		</foaf:knows>
+		<foaf:knows>
+			<foaf:Person rdf:about="https://www.ualberta.ca/education/about-us/professor-profiles/ali-shiri">
+				<foaf:name>Shiri, Ali</foaf:name>
+				<foaf:title>Dr</foaf:title>
+				<foaf:homepage rdf:resource="http://www.ualberta.ca/~ashiri/"/>
+				<foaf:depiction rdf:resource="http://www.ualberta.ca/~ashiri/ali.jpg"/>
+			</foaf:Person>
+		</foaf:knows>
+
+	</foaf:Person>
+</rdf:RDF>
