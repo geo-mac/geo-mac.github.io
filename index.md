@@ -2,7 +2,7 @@
 
 My name is George.  My interests are in structured open data (esp. within Semantic Web and repository contexts),  resource discovery, distributed digital repositories and  human-computer interaction (HCI).
 
-I am a [repository manager and developer](https://www.strath.ac.uk/staff/macgregorgeorgemr/) based at the  [University of Strathclyde](http://www.strath.ac.uk/).  I work on repository things, support [colleagues](http://www.strath.ac.uk/rkes/) in delivering our [CRIS](http://www.eurocris.org) and generally support activities in the areas of [Open Science](https://en.wikipedia.org/wiki/Open_science) and digital scholarship.  I am part of a small team, known as  "Scholarly Publications & Research Data", which works in the area of repositories, research discovery, research data management and [Open Access](https://en.wikipedia.org/wiki/Open_access). I am currently completing a PhD in topics surrounding resource discovery at the [iSchool](https://www.strath.ac.uk/research/subjects/computerinformationscience/strathclydeischoolresearchgroup/).
+I am a [repository manager and developer](https://www.strath.ac.uk/staff/macgregorgeorgemr/) based in the "Scholarly Publications & Research Data" team at the  [University of Strathclyde](http://www.strath.ac.uk/).  I work on repository things, support [colleagues](http://www.strath.ac.uk/rkes/) in delivering our [CRIS](http://www.eurocris.org) and generally support activities in the areas of [Open Science](https://en.wikipedia.org/wiki/Open_science) and digital scholarship. I am currently completing a PhD in topics surrounding resource discovery at the [iSchool](https://www.strath.ac.uk/research/subjects/computerinformationscience/strathclydeischoolresearchgroup/).
 
 - I am [Technical Officer](http://ukcorr.org/committee/) on the [UKCoRR](http://ukcorr.org/) Committee  
 - I am core dev for the [Open Science MOOC](https://opensciencemooc.eu/)
@@ -13,7 +13,11 @@ I am also a chartered member (MCLIP) of the [Chartered Institute of Library & In
 
 ## Previously...
 
-Prior to returning to repositories I worked as a Project Evaluator & Business Analyst on the Jisc funded [Principles in Patterns](http://www.principlesinpatterns.ac.uk/) (PiP) project and, before that, as a Lecturer in Information Management & Systems at [Liverpool John Moores University](https://www.ljmu.ac.uk/). I worked at LJMU for almost 5 years, lecturing in the broad areas of  information retrieval, structured data, and information architecture,  and developing research interests in distributed digital repositories  and Semantic Web technologies. I also developed a peripheral interest in learning technology and e-pedagogy during this time. 
+Prior to returning to repositories I worked in the following roles:
+
+Project Evaluator & Business Analyst, [Jisc](https://www.jisc.ac.uk/) funded [Principles in Patterns](http://www.principlesinpatterns.ac.uk/) (PiP) project
+
+Lecturer in Information Management & Systems at [Liverpool John Moores University](https://www.ljmu.ac.uk/) -- lecturing in information retrieval, structured data, resource discovery, and information architecture; research in distributed digital repositories and Semantic Web technologies. 
 
 In the more  distant past I was a Research Assistant and then Research Fellow based  at the [Centre for Digital Library Research](https://www.strath.ac.uk/cdlr/) in the [Department of Computer and Information Sciences](http://www.strath.ac.uk/cis/), [University of Strathclyde](http://www.strath.ac.uk/). 
 
