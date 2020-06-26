@@ -218,9 +218,21 @@ Some publications can be discovered via: [Strathprints](https://strathprints.str
 
 ## ./ Previous projects
 
-Over the years I have been involved in the following research and innovation projects:
+Over the years I have been involved in a bunch of research and innovation projects:
 
-
+[Principles in Patterns (PiP)](http://www.principlesinpatterns.ac.uk/ "Principles in Patterns (PiP)")  
+[ExAEF Project (Exploring the efficacy of audio email feedback in information management assessment)](http://www.ics.heacademy.ac.uk/projects/development-fund/fund_details.php?id=133 "ExAEF Project")  
+[High-Level Thesaurus (HILT) phase IV](http://web.archive.org/web/20070620035508/http://hilt.cdlr.strath.ac.uk/hilt4/index.html)  
+[High-Level Thesaurus (HILT) phase III](http://web.archive.org/web/20061013053559/http://hilt.cdlr.strath.ac.uk/)  
+[High-Level Thesaurus (HILT) phase II](http://web.archive.org/web/20021122111958/http://hilt.cdlr.strath.ac.uk/)  
+[CC-interop](http://web.archive.org/web/20041203224805/http://ccinterop.cdlr.strath.ac.uk/)  
+[DIDET: Digital Libraries for Distributed Innovative Design Education and Teamwork](http://web.archive.org/web/20050122084345/http://dmem1.ds.strath.ac.uk/didet/)  
+[Glasgow Digital Library (GDL)](http://gdl.cdlr.strath.ac.uk)  
+[Scottish Portals for Education, Information and Research (SPEIR)](http://web.archive.org/web/20040906015511/http://speir.cdlr.strath.ac.uk/)  
+[Digital Information Office (DIO)](http://web.archive.org/web/20030622215646/http://dio.cdlr.strath.ac.uk/
+)  
+[Content Management System (CMS) Metadata Interoperability Project](https://web.archive.org/web/20070625105652/http://cms.cdlr.strath.ac.uk/)  
+[BUBL](https://web.archive.org/web/20120206085145/http://bubl.ac.uk/)
 
 
 
