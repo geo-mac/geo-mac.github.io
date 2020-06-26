@@ -1,8 +1,8 @@
-# Me...
+# ./ Me...
 
 My name is George.  My interests are in structured open data (esp. within Semantic Web and repository contexts),  resource discovery, distributed digital repositories and  human-computer interaction (HCI).
 
-I am a [repository manager and developer](https://www.strath.ac.uk/staff/macgregorgeorgemr/) based in the "Scholarly Publications & Research Data" team at the  [University of Strathclyde](http://www.strath.ac.uk/).  I work on repository things, support [colleagues](http://www.strath.ac.uk/rkes/) in delivering our [CRIS](http://www.eurocris.org) and generally support activities in the areas of [Open Science](https://en.wikipedia.org/wiki/Open_science) and digital scholarship. I am currently completing a PhD in topics surrounding resource discovery at the [iSchool](https://www.strath.ac.uk/research/subjects/computerinformationscience/strathclydeischoolresearchgroup/).
+I am a [repository manager and developer](https://www.strath.ac.uk/staff/macgregorgeorgemr/) based in the "Scholarly Publications & Research Data" team at the  [University of Strathclyde](http://www.strath.ac.uk/).  I work on repository things and generally support activities in the areas of [Open Science](https://en.wikipedia.org/wiki/Open_science), research discovery and digital scholarship. I am currently completing a PhD in topics surrounding resource discovery at the [iSchool](https://www.strath.ac.uk/research/subjects/computerinformationscience/strathclydeischoolresearchgroup/).
 
 - I am [Technical Officer](http://ukcorr.org/committee/) on the [UKCoRR](http://ukcorr.org/) Committee  
 - I am core dev for the [Open Science MOOC](https://opensciencemooc.eu/)
@@ -11,7 +11,7 @@ I am a [repository manager and developer](https://www.strath.ac.uk/staff/macgreg
 
 I am also a chartered member (MCLIP) of the [Chartered Institute of Library & Information Professionals (CILIP)](http://www.cilip.org.uk/) and a registered Fellow ([FHEA](http://www.heacademy.ac.uk/fellow/applying-to-become-a-fellow)) of the UK [Higher Education Academy](http://www.heacademy.ac.uk/).  
 
-## Previously...
+## ./ Previously...
 
 Prior to returning to repositories I worked in the following roles:
 
@@ -20,6 +20,6 @@ Prior to returning to repositories I worked in the following roles:
 - Research Fellow,  [Centre for Digital Library Research](https://www.strath.ac.uk/cdlr/) in the [Department of Computer and Information Sciences](http://www.strath.ac.uk/cis/), [University of Strathclyde](http://www.strath.ac.uk/)
 - Research Assistant,  [Centre for Digital Library Research](https://www.strath.ac.uk/cdlr/) in the [Department of Computer and Information Sciences](http://www.strath.ac.uk/cis/), [University of Strathclyde](http://www.strath.ac.uk/)
 
-In the more  distant past I was a Research Assistant and then Research Fellow based  at the [Centre for Digital Library Research](https://www.strath.ac.uk/cdlr/) in the [Department of Computer and Information Sciences](http://www.strath.ac.uk/cis/), [University of Strathclyde](http://www.strath.ac.uk/). 
+
 
 [![Alt text](https://geo-mac.github.io/images/foaf8015.gif)](https://geo-mac.github.io/george.rdf)
