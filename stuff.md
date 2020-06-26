@@ -1,5 +1,7 @@
 # ./ Stuff...
 
+## ./ Publications
+
 Some publications can be discovered via: [Strathprints](https://strathprints.strath.ac.uk/view/author/375086.default.html), [Google Scholar](https://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ), [Microsoft Academic](https://academic.microsoft.com/#/profile/GeorgeMacgregor), [ORCID](https://orcid.org/0000-0002-8482-3973). I frequently post on the [Open Access @ Strathclyde blog](https://strathoa.tumblr.com/) and an up-to-date [list of my posts can be found here](https://strathoa.tumblr.com/search/George+Macgregor). There is also some information on this page about my [activities, past and present,](http://personal.strath.ac.uk/george.macgregor/stuff.html#anchor-one) and also [projects have been involved in over the years](http://personal.strath.ac.uk/george.macgregor/stuff.html#anchor-two).
 
 - <span class="person_name">Nixon, William J</span> and <span class="person_name">Andrew, Theo</span> and [<span class="person_name">Macgregor, George</span>](https://strathprints.strath.ac.uk/view/author/375086.html) and <span class="person_name">Proven, Jacqueline</span> ([2021](https://strathprints.strath.ac.uk/view/year/2021.html)) [_The wee country that roared : supporting Open Access in Scotland through institutional repositories._](https://strathprints.strath.ac.uk/71842/) In: [16th International Open Repositories Conference (OR2021)](https://strathprints.strath.ac.uk/view/publications/16th_International_Open_Repositories_Conference_=28OR2021=29.html), 2021-05-31 - 2021-06-03, Stellenbosch University. (In Press)
