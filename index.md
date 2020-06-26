@@ -15,9 +15,10 @@ I am also a chartered member (MCLIP) of the [Chartered Institute of Library & In
 
 Prior to returning to repositories I worked in the following roles:
 
-Project Evaluator & Business Analyst, [Jisc](https://www.jisc.ac.uk/) funded [Principles in Patterns](http://www.principlesinpatterns.ac.uk/) (PiP) project
-
-Lecturer in Information Management & Systems at [Liverpool John Moores University](https://www.ljmu.ac.uk/) -- lecturing in information retrieval, structured data, resource discovery, and information architecture; research in distributed digital repositories and Semantic Web technologies. 
+- Project Evaluator & Business Analyst, [Jisc](https://www.jisc.ac.uk/) funded [Principles in Patterns](http://www.principlesinpatterns.ac.uk/) (PiP) project
+- Lecturer in Information Management & Systems at [Liverpool John Moores University](https://www.ljmu.ac.uk/) -- lecturing in information retrieval, structured data, resource discovery, and information architecture; research in distributed digital repositories and Semantic Web technologies. 
+- Research Fellow,  [Centre for Digital Library Research](https://www.strath.ac.uk/cdlr/) in the [Department of Computer and Information Sciences](http://www.strath.ac.uk/cis/), [University of Strathclyde](http://www.strath.ac.uk/)
+- Research Assistant,  [Centre for Digital Library Research](https://www.strath.ac.uk/cdlr/) in the [Department of Computer and Information Sciences](http://www.strath.ac.uk/cis/), [University of Strathclyde](http://www.strath.ac.uk/)
 
 In the more  distant past I was a Research Assistant and then Research Fellow based  at the [Centre for Digital Library Research](https://www.strath.ac.uk/cdlr/) in the [Department of Computer and Information Sciences](http://www.strath.ac.uk/cis/), [University of Strathclyde](http://www.strath.ac.uk/). 
 
