@@ -15,7 +15,7 @@ I am also a chartered member (MCLIP) of the [Chartered Institute of Library & In
 
 ## ./ Previously...
 
-Prior to returning to repositories I worked in the following roles:
+Prior to returning to repositories I did the following:
 
 - Project Evaluator & Business Analyst, [Jisc](https://www.jisc.ac.uk/) funded [Principles in Patterns](http://www.principlesinpatterns.ac.uk/) (PiP) project
 - Lecturer in Information Management & Systems at [Liverpool John Moores University](https://www.ljmu.ac.uk/) -- lecturing in information retrieval, structured data, resource discovery, and information architecture; research in distributed digital repositories and Semantic Web technologies. 
