@@ -1,5 +1,7 @@
 # ./ Me...
 
+![DonMusic](C:\Users\georg\Documents\GitHub\geo-mac.github.io\images\DonMusic.jpg)
+
 My name is George.  My interests are in structured open data (esp. within Semantic Web and repository contexts),  resource discovery, distributed digital repositories and  human-computer interaction (HCI).
 
 I am a [repository manager and developer](https://www.strath.ac.uk/staff/macgregorgeorgemr/) based in the "Scholarly Publications & Research Data" team at the  [University of Strathclyde](http://www.strath.ac.uk/).  I work on repository and digital library things, while also supporting activities within [Open Science](https://en.wikipedia.org/wiki/Open_science), research discovery and digital scholarship. I am currently completing a PhD in topics surrounding resource discovery at the [iSchool](https://www.strath.ac.uk/research/subjects/computerinformationscience/strathclydeischoolresearchgroup/).
