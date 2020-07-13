@@ -1,6 +1,6 @@
 # ./ Me...
 
-![DonMusic](https://geo-mac.github.io/images/DonMusic.jpg)
+![DonMusic](https://geo-mac.github.io/images/depiction.webp)
 
 My name is George.  My interests are in structured open data (esp. within Semantic Web and repository contexts),  resource discovery, distributed digital repositories and  human-computer interaction (HCI).
 
