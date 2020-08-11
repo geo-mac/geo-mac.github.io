@@ -3,7 +3,7 @@
 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 <foaf:PersonalProfileDocument rdf:about="http://geo-mac.github.io/george.rdf">
 		<dcterms:title>George Macgregor's FOAF file</dcterms:title>
-		<dcterms:date>2020-06-25</dcterms:date>
+		<dcterms:date>2020-08-11</dcterms:date>
 		<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/"/>
 		<foaf:maker rdf:resource="https://purl.org/g3om4c#me"/>
 		<foaf:primaryTopic rdf:resource="#me"/>
@@ -20,24 +20,24 @@ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 		<foaf:firstName xml:lang="en">George</foaf:firstName>
 		<foaf:surname xml:lang="en">Macgregor</foaf:surname>
 		<foaf:gender>male</foaf:gender>
-		<foaf:depiction rdf:resource="http://personal.strath.ac.uk/george.macgregor/images/front.png"/>
+		<foaf:depiction rdf:resource="https://geo-mac.github.io/images/depiction.webp"/>
 		<foaf:mbox rdf:resource="mailto:george.macgregor@strath.ac.uk"/>
 		<foaf:homepage rdf:resource="https://purl.org/g3om4c"/>
 		
-		<foaf:workplaceHomepage rdf:resource="http://www.strath.ac.uk/it/"/>
+		<foaf:workplaceHomepage rdf:resource="https://www.strath.ac.uk/professionalservices/is/"/>
 		<contact:ContactLocation>
 		<!-- Office location at University of Strathclyde! -->
 			<geo:Point geo:lat="55.863789" geo:long="-4.242471"/>			
 		</contact:ContactLocation>
-		<foaf:based_near rdf:resource="http://dbpedia.org/data/George_Square"/>			
-		<rel:descendantOf rdf:resource="http://dbpedia.org/resource/Clan_Gregor"/>
-		<rel:descendantOf rdf:resource="http://dbpedia.org/resource/Thomsen"/>
-		<foaf:publications rdf:resource="http://personal.strath.ac.uk/george.macgregor/stuff.html"/>
-		<foaf:publications rdf:resource="http://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ"/>
-		<foaf:publications rdf:resource="http://academic.research.microsoft.com/Author/18469007"/>
-		<foaf:weblog rdf:resource="http://strathoa.tumblr.com/" dcterms:title="Open Access @ Strathclyde"/>
-		<foaf:weblog rdf:resource="http://www.principlesinpatterns.ac.uk/blog.aspx" dcterms:title="Principles in Pattens (PiP) Project Blog"/>
-		<foaf:weblog rdf:resource="http://ljmuinfostrategy.blogspot.com/" dcterms:title="Information Strategy Group, LJMU - Blog"/>
+		<foaf:based_near rdf:resource="https://dbpedia.org/data/George_Square"/>			
+		<rel:descendantOf rdf:resource="https://dbpedia.org/resource/Clan_Gregor"/>
+		<rel:descendantOf rdf:resource="https://dbpedia.org/resource/Thomsen"/>
+		<foaf:publications rdf:resource="https://geo-mac.github.io/stuff.html"/>
+		<foaf:publications rdf:resource="https://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ"/>
+		<foaf:publications rdf:resource="https://academic.research.microsoft.com/Author/18469007"/>
+		<foaf:weblog rdf:resource="https://strathoa.tumblr.com/" dcterms:title="Open Access @ Strathclyde"/>
+		<foaf:weblog rdf:resource="https://www.principlesinpatterns.ac.uk/blog.aspx" dcterms:title="Principles in Pattens (PiP) Project Blog"/>
+		<foaf:weblog rdf:resource="https://ljmuinfostrategy.blogspot.com/" dcterms:title="Information Strategy Group, LJMU - Blog"/>
 		<foaf:holdsAccount>
      		<foaf:OnlineAccount>
       			<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/OnlineChatAccount"/>
@@ -50,20 +50,24 @@ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 		<foaf:interest rdf:resource="http://id.loc.gov/authorities/subjects/sh96000740"/>
 		<foaf:interest rdf:resource="http://id.loc.gov/authorities/subjects/sh88003229"/>
 		<foaf:interest rdf:resource="http://id.loc.gov/authorities/subjects/sh85066148"/>
+		<foaf:currentProject>
+			<rdf:Description rdf:about="https://www.rioxx.net/" dcterms:title="RIOXX Metadata Application Profile">
+			</rdf:Description>
+		</foaf:currentProject>
 		<foaf:pastProject>
 			<rdf:Description rdf:about="http://hilt.cdlr.strath.ac.uk/" dcterms:title="HILT: High-level Thesaurus project phase IV">
 			</rdf:Description>
 		</foaf:pastProject>
 		<foaf:pastProject>
-			<rdf:Description rdf:about="http://hilt.cdlr.strath.ac.uk/hilt3web/index.html" dcterms:title="HILT: High-level Thesaurus project phase III">
+			<rdf:Description rdf:about="https://web.archive.org/web/20110905054923/http://hilt.cdlr.strath.ac.uk/" dcterms:title="HILT: High-level Thesaurus project phase III">
 			</rdf:Description>
 		</foaf:pastProject>
 		<foaf:pastProject>
-			<rdf:Description rdf:about="http://hilt.cdlr.strath.ac.uk/index2.html" dcterms:title="HILT: High-level Thesaurus project phase II">
+			<rdf:Description rdf:about="https://web.archive.org/web/20070620035423/http://hilt.cdlr.strath.ac.uk/hilt3web/index.html" dcterms:title="HILT: High-level Thesaurus project phase III">
 			</rdf:Description>
 		</foaf:pastProject>
 		<foaf:pastProject>
-			<rdf:Description rdf:about="http://ccinterop.cdlr.strath.ac.uk/" dcterms:title="CC-interop: COPAC / Clumps Continuing Technical Cooperation Project">
+			<rdf:Description rdf:about="https://web.archive.org/web/20050627081213/http://ccinterop.cdlr.strath.ac.uk/" dcterms:title="CC-interop: COPAC / Clumps Continuing Technical Cooperation Project">
 			</rdf:Description>
 		</foaf:pastProject>
 		<foaf:pastProject>
@@ -77,25 +81,25 @@ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
 
 		<foaf:interest>
-			<mo:Genre rdf:about="http://dbpedia.org/resource/Contemporary_classical_music">
+			<mo:Genre rdf:about="https://dbpedia.org/resource/Contemporary_classical_music">
 			<dcterms:title>Contemporary classical music</dcterms:title>
-       			<mo:wikipedia rdf:resource="http://en.wikipedia.org/wiki/Contemporary_classical_music"/>
+       			<mo:wikipedia rdf:resource="https://en.wikipedia.org/wiki/Contemporary_classical_music"/>
      			</mo:Genre>
   		 </foaf:interest>
 
 		<foaf:interest>
-			<mo:Genre rdf:about="http://dbpedia.org/resource/World_music">
+			<mo:Genre rdf:about="https://dbpedia.org/resource/World_music">
 			<dcterms:title>World music</dcterms:title>
-       			<dcterms:subject rdf:resource="http://id.loc.gov/authorities/sh93002569#concept"/>
-       			<mo:wikipedia rdf:resource="http://en.wikipedia.org/wiki/World_music"/>
+       			<dcterms:subject rdf:resource="https://id.loc.gov/authorities/sh93002569#concept"/>
+       			<mo:wikipedia rdf:resource="https://en.wikipedia.org/wiki/World_music"/>
      			</mo:Genre>
   		 </foaf:interest>
 
 		<foaf:interest>
-			<mo:Genre rdf:about="http://dbpedia.org/resource/Jazz">
+			<mo:Genre rdf:about="https://dbpedia.org/resource/Jazz">
 			<dcterms:title>Jazz</dcterms:title>
-       			<dcterms:subject rdf:resource="http://id.loc.gov/authorities/sh85069833#concept"/>
-			<mo:wikipedia rdf:resource="http://en.wikipedia.org/wiki/Jazz"/>
+       			<dcterms:subject rdf:resource="https://id.loc.gov/authorities/sh85069833#concept"/>
+			<mo:wikipedia rdf:resource="https://en.wikipedia.org/wiki/Jazz"/>
      			</mo:Genre>
   		 </foaf:interest>
 
@@ -122,9 +126,9 @@ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 		</foaf:knows>
 		
 		<foaf:knows>
-			<foaf:Person rdf:about="http://www.alastairmacgregor.co.uk/#me">
+			<foaf:Person rdf:about="https://twitter.com/aldotastic">
 				<foaf:name>Macgregor, Alastair</foaf:name>
-				<foaf:homepage rdf:resource="http://www.alastairmacgregor.co.uk/"/>
+				<foaf:homepage rdf:resource="https://twitter.com/aldotastic"/>
 			</foaf:Person>
 		</foaf:knows>
 		<foaf:knows>
@@ -136,17 +140,19 @@ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 		<foaf:knows>
 			<foaf:Person>
 				<foaf:name>Taylor, Chris</foaf:name>
-				<foaf:homepage rdf:resource="https://www.ljmu.ac.uk/about-us/staff-profiles/arts-professional-and-social-studies/liverpool-business-school/chris-taylor"/>
+				<foaf:homepage rdf:resource="https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-business-and-law/liverpool-business-school/chris-taylor"/>
 			</foaf:Person>
 		</foaf:knows>
 		<foaf:knows>
 			<foaf:Person>
+				<foaf:title>Dr</foaf:title>
 				<foaf:name>Macgregor, Kenneth</foaf:name>
 				<foaf:homepage rdf:resource="https://uk.linkedin.com/in/kenneth-macgregor-59019647"/>
 			</foaf:Person>
 		</foaf:knows>
 		<foaf:knows>
 			<foaf:Person rdf:about="https://twitter.com/j1mturner">
+				<foaf:title>Dr</foaf:title>
 				<foaf:name>Turner, Jim</foaf:name>
 				<foaf:homepage rdf:resource="https://j1mturner.wordpress.com/"/>
 				
@@ -157,7 +163,7 @@ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 				<foaf:name>Muir, Francis</foaf:name>
 				<foaf:homepage rdf:resource="http://www.francismuir.co.uk/"/>
 				<foaf:weblog rdf:resource="http://francismuir.me.uk/"/>
-				<foaf:workplaceHomepage rdf:resource="https://www.ljmu.ac.uk/about-us/staff-profiles/arts-professional-and-social-studies/liverpool-business-school/francis-muir"/>
+				<foaf:workplaceHomepage rdf:resource="https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-business-and-law/liverpool-business-school/francis-muir"/>
 			</foaf:Person>
 		</foaf:knows>
 		<foaf:knows>
@@ -169,7 +175,7 @@ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 		<foaf:knows>
 			<foaf:Person>
 				<foaf:name>OFarrell, Jack</foaf:name>
-				<foaf:homepage rdf:resource="https://www.ljmu.ac.uk/about-us/staff-profiles/arts-professional-and-social-studies/liverpool-business-school/jack-ofarrell"/>
+				<foaf:homepage rdf:resource="https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-business-and-law/liverpool-business-school/jack-ofarrell"/>
 			</foaf:Person>
 		</foaf:knows>
 
@@ -192,21 +198,14 @@ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
 		</foaf:knows>
 		
-		<foaf:knows>
-			<foaf:Person rdf:about="https://uk.linkedin.com/in/nicholas-joint-2255a448/#me">
-				<foaf:name>Joint, Nick</foaf:name>
-				<foaf:homepage rdf:resource="https://uk.linkedin.com/in/nicholas-joint-2255a448/"/>
-				<foaf:mbox rdf:resource="mailto:n.c.joint@strath.ac.uk"/>
-				<foaf:workplaceHomepage rdf:resource="http://www.strath.ac.uk/staff/jointnicholasmr/"/>
-			</foaf:Person>
-		</foaf:knows>
 
 		<foaf:knows>
-			<foaf:Person rdf:about="http://arts-ed.csu.edu.au/schools/sis/staff/profiles/lecturers/jake-wallis/#me">
+			<foaf:Person rdf:about="https://www.aspi.org.au/bio/jacob-wallis">
+				<foaf:title>Dr</foaf:title>
 				<foaf:name>Wallis, Jake</foaf:name>
-				<foaf:homepage rdf:resource="http://arts-ed.csu.edu.au/schools/sis/staff/profiles/lecturers/jake-wallis/"/>
-				<foaf:depiction rdf:resource="http://arts-ed.csu.edu.au/__data/assets/image/0007/225457/JW_0834.jpg"/>
-				<foaf:weblog rdf:resource="https://twitter.com/jake_wallis"/>
+				<foaf:homepage rdf:resource="https://scholar.google.co.uk/citations?user=37lpspcAAAAJ"/>
+				<foaf:depiction rdf:resource="https://twitter.com/JakeWallis_ASPI/photo"/>
+				<foaf:weblog rdf:resource="https://twitter.com/jakewallis_aspi"/>
 				<foaf:weblog rdf:resource="http://informercialisation.blogspot.com/" dcterms:title="Informercialisation"/>
 			</foaf:Person>
 		</foaf:knows>
