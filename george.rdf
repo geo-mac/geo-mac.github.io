@@ -54,10 +54,7 @@ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 			<rdf:Description rdf:about="https://www.rioxx.net/" dcterms:title="RIOXX Metadata Application Profile">
 			</rdf:Description>
 		</foaf:currentProject>
-		<foaf:pastProject>
-			<rdf:Description rdf:about="http://hilt.cdlr.strath.ac.uk/" dcterms:title="HILT: High-level Thesaurus project phase IV">
-			</rdf:Description>
-		</foaf:pastProject>
+
 		<foaf:pastProject>
 			<rdf:Description rdf:about="https://web.archive.org/web/20110905054923/http://hilt.cdlr.strath.ac.uk/" dcterms:title="HILT: High-level Thesaurus project phase III">
 			</rdf:Description>
