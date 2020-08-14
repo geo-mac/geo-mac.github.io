@@ -16,8 +16,8 @@ Før dette, jeg var
 
 - systemanalytiker og  projektleder evaluator med den "[Principles in Patterns (PiP)](http://www.principlesinpatterns.ac.uk/)" projekt.
 - en adjunkt i information management og systemer på [Liverpool John Moores Universitet](http://www.ljmu.ac.uk/)
-- forskningslektor på "[Centre for Digital Library Research](https://www.strath.ac.uk/cdlr/)" i [institut for datalogi](https://www.strath.ac.uk/cis/) på [Universitet Strathclyde](http://www.strath.ac.uk/).
-- forskningsassistent på "[Centre for Digital Library Research](https://www.strath.ac.uk/cdlr/)" i [institut for datalogi](https://www.strath.ac.uk/cis/) på [Universitet Strathclyde](http://www.strath.ac.uk/).
+- forskningslektor på "[Centre for Digital Library Research](https://en.wikipedia.org/wiki/University_of_Strathclyde_Faculty_of_Science#Former_Departments_and_Research_Units)" i [institut for datalogi](https://www.strath.ac.uk/cis/) på [Universitet Strathclyde](http://www.strath.ac.uk/).
+- forskningsassistent på "[Centre for Digital Library Research](https://en.wikipedia.org/wiki/University_of_Strathclyde_Faculty_of_Science#Former_Departments_and_Research_Units)" i [institut for datalogi](https://www.strath.ac.uk/cis/) på [Universitet Strathclyde](http://www.strath.ac.uk/).
 
 Se min [FOAF profile](/george.rdf) for at få flere oplysninger.	 	
 

@@ -21,8 +21,8 @@ Prior to returning to repositories I did the following:
 
 - Project Evaluator & Business Analyst, [Jisc](https://www.jisc.ac.uk/) funded [Principles in Patterns](http://www.principlesinpatterns.ac.uk/) (PiP) project
 - Lecturer in Information Management & Systems at [Liverpool John Moores University](https://www.ljmu.ac.uk/) -- lecturing in information retrieval, structured data, resource discovery, and information architecture; research in distributed digital repositories and Semantic Web technologies. 
-- Research Fellow,  [Centre for Digital Library Research](https://www.strath.ac.uk/cdlr/) in the [Department of Computer and Information Sciences](http://www.strath.ac.uk/cis/), [University of Strathclyde](http://www.strath.ac.uk/)
-- Research Assistant,  [Centre for Digital Library Research](https://www.strath.ac.uk/cdlr/) in the [Department of Computer and Information Sciences](http://www.strath.ac.uk/cis/), [University of Strathclyde](http://www.strath.ac.uk/)
+- Research Fellow,  [Centre for Digital Library Research](https://en.wikipedia.org/wiki/University_of_Strathclyde_Faculty_of_Science#Former_Departments_and_Research_Units) in the [Department of Computer and Information Sciences](http://www.strath.ac.uk/cis/), [University of Strathclyde](http://www.strath.ac.uk/)
+- Research Assistant,  [Centre for Digital Library Research](https://en.wikipedia.org/wiki/University_of_Strathclyde_Faculty_of_Science#Former_Departments_and_Research_Units) in the [Department of Computer and Information Sciences](http://www.strath.ac.uk/cis/), [University of Strathclyde](http://www.strath.ac.uk/)
 
 Those that know how can grab and check out my [FOAF profile](/george.rdf).
 
