@@ -3,7 +3,7 @@
 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 <foaf:PersonalProfileDocument rdf:about="http://geo-mac.github.io/george.rdf">
 		<dcterms:title>George Macgregor's FOAF file</dcterms:title>
-		<dcterms:date>2020-08-11</dcterms:date>
+		<dcterms:date>2021-07-06</dcterms:date>
 		<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/"/>
 		<foaf:maker rdf:resource="https://purl.org/g3om4c#me"/>
 		<foaf:primaryTopic rdf:resource="#me"/>
@@ -19,6 +19,7 @@ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 		<foaf:name xml:lang="en">George Macgregor</foaf:name>
 		<foaf:firstName xml:lang="en">George</foaf:firstName>
 		<foaf:surname xml:lang="en">Macgregor</foaf:surname>
+		<foaf:title>Dr</foaf:title>
 		<foaf:gender>male</foaf:gender>
 		<foaf:depiction rdf:resource="https://geo-mac.github.io/images/depiction.webp"/>
 		<foaf:mbox rdf:resource="mailto:george.macgregor@strath.ac.uk"/>
@@ -34,7 +35,7 @@ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 		<rel:descendantOf rdf:resource="https://dbpedia.org/resource/Thomsen"/>
 		<foaf:publications rdf:resource="https://geo-mac.github.io/stuff.html"/>
 		<foaf:publications rdf:resource="https://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ"/>
-		<foaf:publications rdf:resource="https://academic.research.microsoft.com/Author/18469007"/>
+		
 		<foaf:weblog rdf:resource="https://strathoa.tumblr.com/" dcterms:title="Open Access @ Strathclyde"/>
 		<foaf:weblog rdf:resource="https://www.principlesinpatterns.ac.uk/blog.aspx" dcterms:title="Principles in Pattens (PiP) Project Blog"/>
 		<foaf:weblog rdf:resource="https://ljmuinfostrategy.blogspot.com/" dcterms:title="Information Strategy Group, LJMU - Blog"/>
