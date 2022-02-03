@@ -6,7 +6,7 @@ Jeg hedder George. Mine interesser er strukturerede åbent data, informationssø
 
 Jeg er det digitale arkiv manager og udvikler, på Strathclyde Universitets "Scholarly Publications & Research Data" gruppe. Jeg arbejder med arkiver og digitalt biblioteker, men støtte vores aktiviteter i Open Science, forskningsopdagelse og "digitale legat" (eller "digital scholarship"). Jeg har en ph.d. fra den [iSchool](https://www.strath.ac.uk/research/subjects/computerinformationscience/strathclydeischoolresearchgroup/) på informationssøgning.
 
-Jeg er medlem af [UKCoRR](http://ukcorr.org/) komite, hvor jeg er [Teknisk Officer](http://ukcorr.org/committee/). Jeg er medlem af 'core dev team' for den [Open Science MOOC](https://opensciencemooc.eu/), en [CORE ambassadør](https://blog.core.ac.uk/2019/10/16/core-ambassador-george-macgregor/), og jeg sidder på den [RIOXX Metadata Application Profile](https://rioxx.net/) Governance Gruppe (RGG).
+Jeg er medlem af [UKCoRR](http://ukcorr.org/) komite, hvor jeg er [Teknisk Officer](http://ukcorr.org/committee/). Jeg er medlem en [CORE ambassadør](https://blog.core.ac.uk/2019/10/16/core-ambassador-george-macgregor/), og jeg sidder på den [RIOXX Metadata Application Profile](https://rioxx.net/) Governance Gruppe (RGG).
 
 Jeg er en chartret medlem (MCLIP) i det britiske  [Chartered Institute of Library & Information Professionals (CILIP)](http://www.cilip.org.uk/) og en [Fellow (FHEA)](http://w ww.heacademy.ac.uk/fellow/applying-to-become-a-fellow) i det britiske [Higher Education Academy (HEA)](http://www.heacademy.ac.uk/).	  	 	
 

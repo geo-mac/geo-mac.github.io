@@ -11,7 +11,6 @@ At the moment...
 - I chair the [RIOXX Metadata Application Profile](https://rioxx.net/) [Governance Group (RGG)](http://www.rioxx.net/governance/)
 - I sit on the [Jisc Digital Research Community Group](https://www.jisc.ac.uk/get-involved/digital-research-community-group)
 - I am [Technical Officer](http://ukcorr.org/committee/) on the [UKCoRR](http://ukcorr.org/) Committee  
-- I am core dev for the [Open Science MOOC](https://opensciencemooc.eu/)
 - I am a [CORE Ambassador](https://blog.core.ac.uk/2019/10/16/core-ambassador-george-macgregor/) 
 
 I am also a chartered member (MCLIP) of the [Chartered Institute of Library & Information Professionals (CILIP)](http://www.cilip.org.uk/) and a registered Fellow ([FHEA](http://www.heacademy.ac.uk/fellow/applying-to-become-a-fellow)) of the UK [Higher Education Academy](http://www.heacademy.ac.uk/).  

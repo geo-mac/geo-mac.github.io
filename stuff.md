@@ -1,8 +1,8 @@
 # ./ Stuff...
 
-This page is a list of some stuff I have done, or some stuff I have been involved with over time, such as publications, projects, professional groups and so forth.
+This page is a list of some stuff I have done, or some stuff I have been involved with over time, such as [publications](#publications), [activities](https://www.jisc.ac.uk/get-involved/digital-research-community-group), and [projects](#projects).
 
-## ./ Publications
+## <a id="publications">./ Publications</a>
 
 Some publications can be discovered via: [Strathprints](https://strathprints.strath.ac.uk/view/author/375086.default.html), [Google Scholar](https://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ), [Microsoft Academic](https://academic.microsoft.com/#/profile/GeorgeMacgregor), [ORCID](https://orcid.org/0000-0002-8482-3973). I frequently post on the [Open Access @ Strathclyde blog](https://strathoa.tumblr.com/) and an up-to-date [list of my posts can be found here](https://strathoa.tumblr.com/search/George+Macgregor). 
 
@@ -110,22 +110,24 @@ Some publications can be discovered via: [Strathprints](https://strathprints.str
 - [<span class="person_name">Nicholson, Dennis</span>](https://strathprints.strath.ac.uk/view/author/21374.html) and [<span class="person_name">Macgregor, George</span>](https://strathprints.strath.ac.uk/view/author/375086.html) ([2002](https://strathprints.strath.ac.uk/view/year/2002.html)) [_Learning lessons holistically in the Glasgow Digital Library._](https://strathprints.strath.ac.uk/2/) [D-Lib Magazine](https://strathprints.strath.ac.uk/view/publications/D-Lib_Magazine.html), 8 (7/8). ISSN 1082-9873
 - [<span class="person_name">Nicholson, D.</span>](https://strathprints.strath.ac.uk/view/author/21374.html) and [<span class="person_name">Dawson, A.</span>](https://strathprints.strath.ac.uk/view/author/93315.html) and [<span class="person_name">Macgregor, G.</span>](https://strathprints.strath.ac.uk/view/author/375086.html) ([2002](https://strathprints.strath.ac.uk/view/year/2002.html)) [_GDL: a model infrastructure for a regional digital library._](https://strathprints.strath.ac.uk/6001/) [WIDWISAWN](https://strathprints.strath.ac.uk/view/publications/WIDWISAWN.html), 1 (1). ISSN 1478-8055
 
-## ./ Activities, committees, etc.
+## <a id="activities">./ Activities, committees, etc.</a>
 
 - Chair of the [RIOXX Metadata Application Profile](https://rioxx.net/) Governance Group (2019-)
 - Committee member (Technical Officer) of the [United Kingdom Council of Research Repositories (UKCoRR)](http://ukcorr.org/) (2018-)
+- Member of the [Jisc Digital Research Community Council](https://www.jisc.ac.uk/get-involved/digital-research-community-group) (2020-)
+- Core dev for the [Open Science MOOC](https://opensciencemooc.eu/) (2019-2021)
 - Member of the [CASRAI Open Access Working Group](http://casrai.org/standards/subject-groups/open-access) (2014-2016)
 - Active member of the UK [PURE](http://www.elsevier.com/solutions/pure) Repository and Open Access Working Group (2013-2017)
 - Steering Group member for the [High-Level Thesaurus (HILT)](http://hilt.cdlr.strath.ac.uk/) project based at the [Centre for Digital Library Research](http://www.strath.ac.uk/cdlr/) ([University of Strathclyde](http://www.strath.ac.uk/)) and [EDINA](http://www.edina.ac.uk/) ([University of Edinburgh](http://www.ed.ac.uk/)) (2007-2009).
-- I have reviewed papers for [Program: Electronic Library & Information Systems](http://www.emeraldinsight.com/info/journals/prog/jourinfo.jsp), [Journal of Digital Information (JoDI)](http://journals.tdl.org/jodi/), [Interactive Technology & Smart Education](http://info.emeraldinsight.com/products/journals/journals.htm?id=itse), [Global Knowledge, Memory and Communication](http://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=gkmc) and [Library Review](http://www.emeraldinsight.com/info/journals/lr/jourinfo.jsp), [Accounting Education: An International Journal](http://www.tandfonline.com/toc/raed20/current), Open Repositories Conference, and books for [Chandos Publishing](http://www.chandospublishing.com/). 
+- I have reviewed papers for [Program: Electronic Library & Information Systems](https://www.emerald.com/insight/publication/issn/0033-0337), [Journal of Digital Information (JoDI)](http://journals.tdl.org/jodi/), [Interactive Technology & Smart Education](https://www.emerald.com/insight/publication/issn/1741-5659), [Global Knowledge, Memory and Communication](https://www.emeraldgrouppublishing.com/journal/gkmc) and [Library Review](https://www.emerald.com/insight/publication/issn/0024-2535), [Accounting Education: An International Journal](http://www.tandfonline.com/toc/raed20/current), Open Repositories Conference, and books for [Routledge](https://www.routledge.com/) and [Chandos Publishing](https://www.elsevier.com/books-and-journals/chandos-publishing). 
 - Committee member of the [CILIP](http://www.cilip.org.uk/default.cilip) [MmIT](http://www.cilip.org.uk/specialinterestgroups/bysubject/multimedia) North West branch. (2008-2011) 
-- Associate Editor of the international journal [Library Review](http://www.emeraldinsight.com/info/journals/lr/jourinfo.jsp) (2006 to 2012). 
-- Editor of the Digital Directions column for the international journal [Library Review](http://www.emeraldinsight.com/info/journals/lr/jourinfo.jsp) between volume 53-55 (2003-2006).
-- Member of the editorial review board for the international journal [Library Review](http://www.emeraldinsight.com/info/journals/lr/jourinfo.jsp) (2003-2006).
-- Received the Emerald Literati Network 2007 'Outstanding Reviewer Award', for my contribution to [Library Review](http://www.emeraldinsight.com/info/journals/lr/jourinfo.jsp) in 2006.
-- The following paper received the [Program: Electronic Library & Information Systems](http://www.emeraldinsight.com/info/journals/prog/jourinfo.jsp) Highly Commended Paper award for 2005: Macgregor, G. & Nicolaides, F. (2005), Towards Improved Performance and Interoperability in Distributed and Physical Union Catalogues, Program. Vol.39 No.3, pp.227-247.
+- Associate Editor of the international journal [Library Review](https://www.emerald.com/insight/publication/issn/0024-2535) (2006 to 2012). 
+- Editor of the Digital Directions column for the international journal [Library Review](https://www.emerald.com/insight/publication/issn/0024-2535)between volume 53-55 (2003-2006).
+- Member of the editorial review board for the international journal [Library Review ](https://www.emerald.com/insight/publication/issn/0024-2535)(2003-2006).
+- Received the Emerald Literati Network 2007 'Outstanding Reviewer Award', for my contribution to [Library Review](https://www.emerald.com/insight/publication/issn/0024-2535) in 2006.
+- The following paper received the [Program: Electronic Library & Information Systems](https://www.emerald.com/insight/publication/issn/0033-0337) Highly Commended Paper award for 2005: Macgregor, G. & Nicolaides, F. (2005), Towards Improved Performance and Interoperability in Distributed and Physical Union Catalogues, Program. Vol.39 No.3, pp.227-247.
 
-## ./ Previous projects
+## <a id="projects">./ Previous projects</a>
 
 Over the years I have been involved in a bunch of research and innovation projects:
 

@@ -3,13 +3,14 @@
 ./ Where I am...
 -------------
 
-**George Macgregor**  
+**George Macgregor**,
+
+Scholarly Publications & Research Data  
 [Information Services Directorate](https://www.strath.ac.uk/is/),  
 [University of Strathclyde,](https://www.strath.ac.uk/)  
-5.10 Curran Building  
+Curran Building  
 101 St. James Road  
 Glasgow G4 ONS  
-**Tel:** [+44-(0)141-548-4468](tel:+44-141-548-4468)  
 ([This location on a map](https://goo.gl/maps/MFe2MhuDTwP2))
 
 ./ Online...
