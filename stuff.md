@@ -1,6 +1,6 @@
 # ./ Stuff...
 
-This page is a list of some stuff I have done, or some stuff I have been involved with over time, such as [publications](#publications), [activities](https://www.jisc.ac.uk/get-involved/digital-research-community-group), and [projects](#projects).
+This page is a list of some stuff I have done, or some stuff I have been involved with over time, such as [publications](#publications), [activities](#activities), and [projects](#projects).
 
 ## <a id="publications">./ Publications</a>
 
