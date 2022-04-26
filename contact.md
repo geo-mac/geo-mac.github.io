@@ -27,6 +27,6 @@ Glasgow G4 ONS
 **Tumblr:** [my blog posts on "Open Access @ Strathclyde"](https://strathoa.tumblr.com/search/George+Macgregor) \[Strathclyde team blog\]  
 **Tumblr:** [my Tumblr](https://g3om4c.tumblr.com/)  
 
-Find me on [Google Scholar](https://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ) and [MS Academic Search](https://academic.microsoft.com/#/detail/2105154009).
+Find me on [Google Scholar](https://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ).
 
 [![Alt text](https://geo-mac.github.io/images/foaf8015.gif)](https://geo-mac.github.io/george.rdf)
