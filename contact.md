@@ -21,6 +21,7 @@ Glasgow G4 ONS
 **ORCID:** [0000-0002-8482-3973](http://orcid.org/0000-0002-8482-3973)  
 **Twitter:** [@g3om4c](https://twitter.com/g3om4c)  
 **Mastodon** [@g3om4c](https://mastodon.social/@g3om4c)
+
 **GitHub:** [geo-mac](https://github.com/geo-mac)  
 **LinkedIn:** [george-macgregor-839688120](https://uk.linkedin.com/in/george-macgregor-839688120)  
 **Impactstory:** [my profile](https://impactstory.org/u/0000-0002-8482-3973)  
