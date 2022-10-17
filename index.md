@@ -8,7 +8,7 @@ I am a [repository manager and technologist](https://www.strath.ac.uk/staff/macg
 
 At the moment...
 
-- I chair the [RIOXX Metadata Application Profile](https://rioxx.net/) [Governance Group (RGG)](http://www.rioxx.net/governance/)
+- I chair the [Rioxx: The Research Outputs Metadata Schema](https://rioxx.net/) [Governance Group (RGG)](http://www.rioxx.net/governance/)
 - I sit on the [Jisc Digital Research Community Group](https://www.jisc.ac.uk/get-involved/digital-research-community-group)
 - I am [Technical Officer](http://ukcorr.org/committee/) on the [UKCoRR](http://ukcorr.org/) Committee  
 - I am a [CORE Ambassador](https://blog.core.ac.uk/2019/10/16/core-ambassador-george-macgregor/) 
