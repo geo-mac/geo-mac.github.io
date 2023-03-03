@@ -19,9 +19,10 @@ Glasgow G4 ONS
 **Email:** [george.macgregor@strath.ac.uk](mailto:george.macgregor@strath.ac.uk)  
 **FOAF:** [george.rdf](george.rdf)  
 **ORCID:** [0000-0002-8482-3973](http://orcid.org/0000-0002-8482-3973)  
-**Twitter:** [@g3om4c](https://twitter.com/g3om4c)  
-**Mastodon** [@g3om4c@mastodon.social](https://mastodon.social/@g3om4c)  
+~~**Twitter:** [@g3om4c](https://twitter.com/g3om4c)  ~~ 
+**Mastodon** [@g3om4c@code4lib.social](https://code4lib.social/@g3om4c)  
 **GitHub:** [geo-mac](https://github.com/geo-mac)  
+**Wikipedia:** [Don-music](https://en.wikipedia.org/wiki/User:Don-music)
 **LinkedIn:** [george-macgregor-839688120](https://uk.linkedin.com/in/george-macgregor-839688120)  
 **Impactstory:** [my profile](https://impactstory.org/u/0000-0002-8482-3973)  
 **Tumblr:** [my blog posts on "Open Access @ Strathclyde"](https://strathoa.tumblr.com/search/George+Macgregor) \[Strathclyde team blog\]  
