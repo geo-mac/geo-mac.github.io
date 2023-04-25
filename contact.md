@@ -19,6 +19,7 @@ Glasgow G4 ONS
 **Email:** [george.macgregor@strath.ac.uk](mailto:george.macgregor@strath.ac.uk)  
 **FOAF:** [george.rdf](george.rdf)  
 **ORCID:** [0000-0002-8482-3973](http://orcid.org/0000-0002-8482-3973)  
+**ISNI:** [0000 0005 0661 3489](https://isni.org/isni/0000000506613489)
 <strike>Twitter: [@g3om4c](https://twitter.com/g3om4c)  </strike>
 **Mastodon** [@g3om4c@code4lib.social](https://code4lib.social/@g3om4c)  
 **GitHub:** [geo-mac](https://github.com/geo-mac)  
