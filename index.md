@@ -25,4 +25,4 @@ Prior to returning to repositories I did the following:
 
 Those that know how can grab and check out my [FOAF profile](/george.rdf).
 
-[![Alt text](https://geo-mac.github.io/images/foaf8015.gif)](https://geo-mac.github.io/george.rdf)
+[![Alt text](https://geo-mac.github.io/images/foaf8015.gif)](https://geo-mac.github.io/george.ttl)

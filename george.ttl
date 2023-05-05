@@ -1,0 +1,157 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix ns0: <http://www.w3.org/2000/10/swap/pim/contact#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix ns1: <http://purl.org/vocab/> .
+@prefix ns2: <http://purl.org/ontology/mo/> .
+
+<http://geo-mac.github.io/george.rdf>
+  a foaf:PersonalProfileDocument ;
+  dc:title "George Macgregor's FOAF file" ;
+  dc:date "2021-07-06" ;
+  cc:license <http://creativecommons.org/licenses/by-nc/4.0/> ;
+  foaf:maker <https://purl.org/g3om4c#me> ;
+  foaf:primaryTopic <https://geo-mac.github.io/george.rdf#me> .
+
+<http://purl.org/g3om4c>
+  a foaf:homepage ;
+  cc:license <http://creativecommons.org/licenses/by-nc/4.0/> ;
+  owl:sameAs <http://geo-mac.github.io/> .
+
+<https://purl.org/g3om4c#me>
+  a foaf:Person ;
+  foaf:name "George Macgregor"@en ;
+  foaf:firstName "George"@en ;
+  foaf:surname "Macgregor"@en ;
+  foaf:title "Dr" ;
+  foaf:gender "male" ;
+  foaf:depiction <https://geo-mac.github.io/images/depiction.webp> ;
+  foaf:mbox <mailto:george.macgregor@strath.ac.uk> ;
+  foaf:homepage <https://purl.org/g3om4c> ;
+  foaf:workplaceHomepage <https://www.strath.ac.uk/professionalservices/is/> ;
+  ns0:ContactLocation [
+    a geo:Point ;
+    geo:lat "55.863789" ;
+    geo:long "-4.242471"
+  ] ;
+  foaf:based_near <https://dbpedia.org/data/George_Square> ;
+  ns1:relationshipdescendantOf <https://dbpedia.org/resource/Clan_Gregor>, <https://dbpedia.org/resource/Thomsen> ;
+  foaf:publications <https://geo-mac.github.io/stuff.html>, <https://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ> ;
+  foaf:weblog <https://strathoa.tumblr.com/>, <https://www.principlesinpatterns.ac.uk/blog.aspx>, <https://ljmuinfostrategy.blogspot.com/> ;
+  foaf:holdsAccount [
+    a foaf:OnlineAccount, foaf:OnlineChatAccount ;
+    foaf:accountServiceHomepage <http://www.skype.com/intl/en-gb/> ;
+    foaf:accountName "geo.macgregor"
+  ] ;
+  foaf:interest <http://id.loc.gov/authorities/subjects/sh2002000569>, <http://id.loc.gov/authorities/subjects/sh2006003967>, <http://id.loc.gov/authorities/subjects/sh96000740>, <http://id.loc.gov/authorities/subjects/sh88003229>, <http://id.loc.gov/authorities/subjects/sh85066148>, <https://dbpedia.org/resource/Contemporary_classical_music>, <https://dbpedia.org/resource/World_music>, <https://dbpedia.org/resource/Jazz> ;
+  foaf:currentProject <https://www.rioxx.net/> ;
+  foaf:pastProject <https://web.archive.org/web/20110905054923/http://hilt.cdlr.strath.ac.uk/>, <https://web.archive.org/web/20070620035423/http://hilt.cdlr.strath.ac.uk/hilt3web/index.html>, <https://web.archive.org/web/20050627081213/http://ccinterop.cdlr.strath.ac.uk/>, <http://www.didet.ac.uk/>, <http://web.archive.org/web/20030622215646/http://dio.cdlr.strath.ac.uk/> ;
+  ns1:relationshipcollaboratesWith <https://uk.linkedin.com/in/alan-morrison-b9544a51/#me>, <http://www.strath.ac.uk/staff/slevinalanmr/#me>, <https://twitter.com/alexgspiers#me>, <http://orcid.org/0000-0001-6300-1033#me> ;
+  foaf:knows <http://orcid.org/0000-0001-6300-1033#me>, <https://uk.linkedin.com/in/alan-morrison-b9544a51/#me>, <https://twitter.com/aldotastic>, [
+    a foaf:Person ;
+    foaf:name "Dunsire, Gordon" ;
+    foaf:homepage <http://www.gordondunsire.com/>
+  ], [
+    a foaf:Person ;
+    foaf:name "Taylor, Chris" ;
+    foaf:homepage <https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-business-and-law/liverpool-business-school/chris-taylor>
+  ], [
+    a foaf:Person ;
+    foaf:title "Dr" ;
+    foaf:name "Macgregor, Kenneth" ;
+    foaf:homepage <https://uk.linkedin.com/in/kenneth-macgregor-59019647>
+  ], <https://twitter.com/j1mturner>, <https://twitter.com/francismuir>, <http://about.me/alex.spiers#me>, [
+    a foaf:Person ;
+    foaf:name "OFarrell, Jack" ;
+    foaf:homepage <https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-business-and-law/liverpool-business-school/jack-ofarrell>
+  ], <http://www.strath.ac.uk/staff/grahamemmams#me>, <http://www.strath.ac.uk/staff/josephanumrs/#me>, <https://www.aspi.org.au/bio/jacob-wallis>, <https://www.ualberta.ca/education/about-us/professor-profiles/ali-shiri> .
+
+<https://strathoa.tumblr.com/> dc:title "Open Access @ Strathclyde" .
+<https://www.principlesinpatterns.ac.uk/blog.aspx> dc:title "Principles in Pattens (PiP) Project Blog" .
+<https://ljmuinfostrategy.blogspot.com/> dc:title "Information Strategy Group, LJMU - Blog" .
+<https://www.rioxx.net/> dc:title "RIOXX Metadata Application Profile" .
+<https://web.archive.org/web/20110905054923/http://hilt.cdlr.strath.ac.uk/> dc:title "HILT: High-level Thesaurus project phase III" .
+<https://web.archive.org/web/20070620035423/http://hilt.cdlr.strath.ac.uk/hilt3web/index.html> dc:title "HILT: High-level Thesaurus project phase III" .
+<https://web.archive.org/web/20050627081213/http://ccinterop.cdlr.strath.ac.uk/> dc:title "CC-interop: COPAC / Clumps Continuing Technical Cooperation Project" .
+<http://www.didet.ac.uk/> dc:title "DIDET: Digital Libraries for Distributed Innovative Design Education and Teamwork" .
+<http://web.archive.org/web/20030622215646/http://dio.cdlr.strath.ac.uk/> dc:title "Strathclyde Digital Information Office" .
+<https://dbpedia.org/resource/Contemporary_classical_music>
+  a <http://purl.org/ontology/mo/Genre> ;
+  dc:title "Contemporary classical music" ;
+  ns2:wikipedia <https://en.wikipedia.org/wiki/Contemporary_classical_music> .
+
+<https://dbpedia.org/resource/World_music>
+  a ns2:Genre ;
+  dc:title "World music" ;
+  dc:subject <https://id.loc.gov/authorities/sh93002569#concept> ;
+  ns2:wikipedia <https://en.wikipedia.org/wiki/World_music> .
+
+<https://dbpedia.org/resource/Jazz>
+  a ns2:Genre ;
+  dc:title "Jazz" ;
+  dc:subject <https://id.loc.gov/authorities/sh85069833#concept> ;
+  ns2:wikipedia <https://en.wikipedia.org/wiki/Jazz> .
+
+<http://orcid.org/0000-0001-6300-1033#me>
+  a foaf:Person ;
+  foaf:name "de Castro, Pablo" ;
+  foaf:account <https://uk.linkedin.com/in/pablo-de-castro-018905a>, <https://twitter.com/pcastromartin> .
+
+<https://uk.linkedin.com/in/alan-morrison-b9544a51/#me>
+  a foaf:Person ;
+  foaf:name "Morrison, Alan" ;
+  foaf:homepage <https://uk.linkedin.com/in/alan-morrison-b9544a51> .
+
+<https://twitter.com/aldotastic>
+  a foaf:Person ;
+  foaf:name "Macgregor, Alastair" ;
+  foaf:homepage <https://twitter.com/aldotastic> .
+
+<https://twitter.com/j1mturner>
+  a foaf:Person ;
+  foaf:title "Dr" ;
+  foaf:name "Turner, Jim" ;
+  foaf:homepage <https://j1mturner.wordpress.com/> .
+
+<https://twitter.com/francismuir>
+  a foaf:Person ;
+  foaf:name "Muir, Francis" ;
+  foaf:homepage <http://www.francismuir.co.uk/> ;
+  foaf:weblog <http://francismuir.me.uk/> ;
+  foaf:workplaceHomepage <https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-business-and-law/liverpool-business-school/francis-muir> .
+
+<http://about.me/alex.spiers#me>
+  a foaf:Person ;
+  foaf:name "Spiers, Alex" ;
+  foaf:homepage <http://about.me/alex.spiers> .
+
+<http://www.strath.ac.uk/staff/grahamemmams#me>
+  a foaf:Person ;
+  foaf:name "Graham, Emma" ;
+  foaf:mbox <mailto:e.graham@strath.ac.uk> ;
+  foaf:homepage <http://www.strath.ac.uk/staff/grahamemmams/> .
+
+<http://www.strath.ac.uk/staff/josephanumrs/#me>
+  a foaf:Person ;
+  foaf:name "Joseph, Anu" ;
+  foaf:mbox <mailto:anu.joseph@strath.ac.uk> ;
+  foaf:homepage <http://www.strath.ac.uk/staff/josephanumrs/> .
+
+<https://www.aspi.org.au/bio/jacob-wallis>
+  a foaf:Person ;
+  foaf:title "Dr" ;
+  foaf:name "Wallis, Jake" ;
+  foaf:homepage <https://scholar.google.co.uk/citations?user=37lpspcAAAAJ> ;
+  foaf:depiction <https://twitter.com/JakeWallis_ASPI/photo> ;
+  foaf:weblog <https://twitter.com/jakewallis_aspi>, <http://informercialisation.blogspot.com/> .
+
+<http://informercialisation.blogspot.com/> dc:title "Informercialisation" .
+<https://www.ualberta.ca/education/about-us/professor-profiles/ali-shiri>
+  a foaf:Person ;
+  foaf:name "Shiri, Ali" ;
+  foaf:title "Dr" ;
+  foaf:homepage <http://www.ualberta.ca/~ashiri/> ;
+  foaf:depiction <http://www.ualberta.ca/~ashiri/ali.jpg> .
+
