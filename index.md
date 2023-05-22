@@ -4,7 +4,7 @@
 
 My name is George.  My interests are in structured open data (esp. within Semantic Web and repository contexts),  resource discovery, distributed digital repositories and  human-computer interaction (HCI).
 
-I am a [repository manager and technologist](https://www.strath.ac.uk/staff/macgregorgeorgemr/) based in the "Scholarly Publications & Research Data" team at the  [University of Strathclyde](http://www.strath.ac.uk/).  I work on repository and digital library things, while also supporting activities within [Open Science](https://en.wikipedia.org/wiki/Open_science), research discovery and digital scholarship. I have a PhD in Computer & Information Sciences from the [iSchool](https://www.strath.ac.uk/research/subjects/computerinformationscience/strathclydeischoolresearchgroup/) at Strathclyde, specialising in topics surrounding resource discovery in heterogeneous digital environments.
+I am a [repository manager and technologist](https://www.strath.ac.uk/staff/macgregorgeorgemr/) based in the "Scholarly Publications & Research Data" team at the  [University of Strathclyde](http://www.strath.ac.uk/).  I work on repository and digital library things, while also supporting activities within [Open Science](https://en.wikipedia.org/wiki/Open_science), research discovery and digital scholarship. I have a PhD in Computer & Information Sciences from the [iSchool](https://www.strath.ac.uk/research/subjects/computerinformationscience/strathclydeischoolresearchgroup/) at Strathclyde, specialising in topics surrounding resource discovery in heterogeneous digital environments. I also happen to be an avid Wikipedian and an advocate of the [knowledge commons](https://en.wikipedia.org/w/index.php?title=Knowledge_commons&oldid=1126170265).
 
 At the moment...
 
