@@ -23,6 +23,6 @@ Prior to returning to repositories I did the following:
 - Research Fellow,  [Centre for Digital Library Research](https://en.wikipedia.org/wiki/University_of_Strathclyde_Faculty_of_Science#Former_Departments_and_Research_Units) in the [Department of Computer and Information Sciences](http://www.strath.ac.uk/cis/), [University of Strathclyde](http://www.strath.ac.uk/)
 - Research Assistant,  [Centre for Digital Library Research](https://en.wikipedia.org/wiki/University_of_Strathclyde_Faculty_of_Science#Former_Departments_and_Research_Units) in the [Department of Computer and Information Sciences](http://www.strath.ac.uk/cis/), [University of Strathclyde](http://www.strath.ac.uk/)
 
-Those that know how can grab and check out my [FOAF profile](/george.rdf).
+Those that know how can grab and check out my [FOAF profile](/george.ttl).
 
 [![Alt text](https://geo-mac.github.io/images/foaf8015.gif)](https://geo-mac.github.io/george.ttl)
