@@ -157,4 +157,4 @@ Over the years I have been involved in a bunch of research and innovation projec
 [Content Management System (CMS) Metadata Interoperability Project](https://web.archive.org/web/20070625105652/http://cms.cdlr.strath.ac.uk/)  
 [BUBL](https://web.archive.org/web/20120206085145/http://bubl.ac.uk/)
 
-[![Alt text](https://geo-mac.github.io/images/foaf8015.gif)](https://geo-mac.github.io/george.rdf)
+[![Alt text](https://geo-mac.github.io/images/foaf8015.gif)](https://geo-mac.github.io/george.ttl)
