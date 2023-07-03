@@ -6,13 +6,7 @@ My name is George.  My interests are in structured open data (esp. within Semant
 
 I am a [repository manager and technologist](https://www.strath.ac.uk/staff/macgregorgeorgemr/) based in the "Scholarly Publications & Research Data" team at the  [University of Strathclyde](http://www.strath.ac.uk/).  I work on repository and digital library things, while also supporting activities within [Open Science](https://en.wikipedia.org/wiki/Open_science), research discovery and digital scholarship. I have a PhD in Computer & Information Sciences from the [iSchool](https://www.strath.ac.uk/research/subjects/computerinformationscience/strathclydeischoolresearchgroup/) at Strathclyde, specialising in topics surrounding resource discovery in heterogeneous digital environments. I also happen to be an avid Wikipedian and an advocate of the [knowledge commons](https://en.wikipedia.org/w/index.php?title=Knowledge_commons&oldid=1126170265).
 
-At the moment...
-
-- I chair the [Rioxx: The Research Outputs Metadata Schema](https://rioxx.net/) [Governance Group (RGG)](http://www.rioxx.net/governance/)
-- I sit on the [Jisc Digital Research Community Group](https://www.jisc.ac.uk/get-involved/digital-research-community-group)
-- I am [Technical Officer](http://ukcorr.org/committee/) on the [UKCoRR](http://ukcorr.org/) Committee  
-
-I am also a chartered member (MCLIP) of the [Chartered Institute of Library & Information Professionals (CILIP)](http://www.cilip.org.uk/) and a registered Fellow ([FHEA](http://www.heacademy.ac.uk/fellow/applying-to-become-a-fellow)) of the UK [Higher Education Academy](http://www.heacademy.ac.uk/).  
+I am a chartered member (MCLIP) of the [Chartered Institute of Library & Information Professionals (CILIP)](http://www.cilip.org.uk/) and a registered Fellow ([FHEA](http://www.heacademy.ac.uk/fellow/applying-to-become-a-fellow)) of the UK [Higher Education Academy](http://www.heacademy.ac.uk/).  
 
 ## ./ Previously...
 
