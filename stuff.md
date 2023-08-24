@@ -1,10 +1,10 @@
 # ./ Stuff...
 
-This page is a list of some stuff I have done, or some stuff I have been involved with over time, such as [publications](#publications), [activities](#activities), and [projects](#projects).
+This page is a list of some stuff I have done, such as [publications](#publications), [activities](#activities), and [projects](#projects).
 
 ## <a id="publications">./ Publications</a>
 
-Some publications can be discovered via: [Strathprints](https://strathprints.strath.ac.uk/view/author/375086.default.html), [Google Scholar](https://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ), [ORCID](https://orcid.org/0000-0002-8482-3973). I sometimes post on the [Open Access @ Strathclyde blog](https://strathoa.tumblr.com/) and an up-to-date [list of my posts can be found here](https://strathoa.tumblr.com/search/George+Macgregor). 
+Some publications can be discovered via: [Strathprints](https://strathprints.strath.ac.uk/view/author/375086.default.html), [Google Scholar](https://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ), [ORCID](https://orcid.org/0000-0002-8482-3973). 
 
 - [Macgregor, George](https://strathprints.strath.ac.uk/view/author/375086.html) and Lancho-Barrantes, Barbara S. and [Rasmussen Pennington, Diane](https://strathprints.strath.ac.uk/view/author/1004699.html) ([2023](https://strathprints.strath.ac.uk/view/year/2023.html)) [Authority of assertion in repository contributions to the PID graph.](https://strathprints.strath.ac.uk/85167/) In: *["Re-Discovery" : Metadata & Discovery Group (MDG) Conference 2023](https://strathprints.strath.ac.uk/view/publications/=22Re-Discovery=22_=3A_Metadata_=26_Discovery_Group_=28MDG=29_Conference_2023.html),* 2023-09-06 - 2023-09-08, IET Birmingham: Austin Court.
 - [Macgregor, George](https://strathprints.strath.ac.uk/view/author/375086.html) ([2023](https://strathprints.strath.ac.uk/view/year/2023.html)) [Modelling research output expressions : metadata schema modelling of publication lifecycles and scholarly entities.](https://strathprints.strath.ac.uk/85166/) In: *["Re-Discovery" : Metadata & Discovery Group (MDG) Conference 2023](https://strathprints.strath.ac.uk/view/publications/=22Re-Discovery=22_=3A_Metadata_=26_Discovery_Group_=28MDG=29_Conference_2023.html),* 2023-09-06 - 2023-09-08, IET Birmingham: Austin Court.

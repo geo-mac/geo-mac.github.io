@@ -28,9 +28,9 @@
   foaf:title "Dr" ;
   foaf:gender "male" ;
   foaf:depiction <https://geo-mac.github.io/images/depiction.webp> ;
-  foaf:mbox <mailto:george.macgregor@strath.ac.uk> ;
+  foaf:mbox <mailto:george.macgregor@glasgow.ac.uk> ;
   foaf:homepage <https://purl.org/g3om4c> ;
-  foaf:workplaceHomepage <https://www.strath.ac.uk/professionalservices/is/> ;
+  foaf:workplaceHomepage <https://gla.ac.uk/myglasgow/library/> ;
   ns0:ContactLocation [
     a geo:Point ;
     geo:lat "55.863789" ;
