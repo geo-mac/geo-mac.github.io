@@ -6,7 +6,7 @@ My name is George.  My interests are in structured open data (esp. within open r
 
 I am based within [Information Services ](https://www.gla.ac.uk/myglasgow/informationservices/) at the [University of Glasgow](https://www.gla.ac.uk/) as [Assistant Director - Digital Libraries](https://www.gla.ac.uk/stafflist/search/person/4edee6e48192/). I work and lead on repository and digital library things, while also supporting activities within [Open Science](https://en.wikipedia.org/wiki/Open_science), research discovery, and digital scholarship. My background is both as an academic and as a practitioner. I have a PhD in Computer & Information Sciences from the [iSchool](https://www.strath.ac.uk/research/subjects/computerinformationscience/strathclydeischoolresearchgroup/) at the University of Strathclyde, specializing in topics surrounding resource discovery in heterogeneous digital environments. I also happen to be an avid Wikipedian and an advocate of the [knowledge commons](https://en.wikipedia.org/w/index.php?title=Knowledge_commons&oldid=1126170265).
 
-I am a chartered member (MCLIP) of the [Chartered Institute of Library & Information Professionals (CILIP)](http://www.cilip.org.uk/) and a registered Fellow ([FHEA](http://www.heacademy.ac.uk/fellow/applying-to-become-a-fellow)) of the UK [Higher Education Academy](http://www.heacademy.ac.uk/).  
+I am a [chartered member (MCLIP)](https://www.cilip.org.uk/page/ProfessionalRegistrationChartership) of the [Chartered Institute of Library & Information Professionals (CILIP)](http://www.cilip.org.uk/) and a registered Fellow ([FHEA](http://www.heacademy.ac.uk/fellow/applying-to-become-a-fellow)) of the UK [Higher Education Academy](http://www.heacademy.ac.uk/).  
 
 ## ./ Previously...
 
