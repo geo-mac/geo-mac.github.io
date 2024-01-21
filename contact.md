@@ -20,9 +20,8 @@ Glasgow, G12 8QE
 **ISNI:** [0000 0005 0661 3489](https://isni.org/isni/0000000506613489)
 **Fediverse** [@g3om4c@code4lib.social](https://code4lib.social/@g3om4c)  
 **GitHub:** [geo-mac](https://github.com/geo-mac)  
-**Wikipedia:** [Don-music](https://en.wikipedia.org/wiki/User:Don-music)  
+**Wikipedia:** [Don-music](https://en.wikipedia.org/wiki/Special:Contributions/Don-music) 
 **LinkedIn:** [george-macgregor-839688120](https://uk.linkedin.com/in/george-macgregor-839688120)  
-**Impactstory:** [my profile](https://impactstory.org/u/0000-0002-8482-3973)  
 
 Find me on [Google Scholar](https://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ).
 
