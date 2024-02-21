@@ -4,7 +4,7 @@ This page is a list of some stuff I have done, such as [publications](#publicati
 
 ## <a id="publications">./ Publications</a>
 
-Some publications can be discovered via: [Enlighten: Publications](http://eprints.gla.ac.uk/), [Strathprints](https://strathprints.strath.ac.uk/view/author/375086.default.html), [Google Scholar](https://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ), [ORCID](https://orcid.org/0000-0002-8482-3973). 
+Some publications can be discovered via: [Enlighten: Publications](https://eprints.gla.ac.uk/view/author/72921.html), [Strathprints](https://strathprints.strath.ac.uk/view/author/375086.default.html), [Google Scholar](https://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ), [ORCID](https://orcid.org/0000-0002-8482-3973). 
 
 - Knoth, P., Klein, M., [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html), Cancellieri, M. and Walk, P. (2024) [How to make repository content indexed and discoverable.](https://eprints.gla.ac.uk/320748/) *The 19th International Conference on Open Repositories*, Göteborg, Sweden, 03-06 June. (In Press)
 - [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html), Knoth, P., Walk, P., Dowson, N., [Eadie, M.](http://eprints.gla.ac.uk/view/author/33238.html) [](http://orcid.org/0000-0003-3295-6915 "ORCID: 0000-0003-3295-6915") , Jones, B. and Martínez-García, A. (2024) [Exploring the concept of 'custodianship' in harvesting repository resources and graphing their relations : Rioxx version 3.0.](https://eprints.gla.ac.uk/320745/) *The 19th International Conference on Open Repositories*, Göteborg, Sweden, 03-06 June. (In Press)
