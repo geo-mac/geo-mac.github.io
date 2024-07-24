@@ -127,15 +127,16 @@ Some publications can be discovered via: [Enlighten: Publications](https://eprin
 ## <a id="activities">./ Activities, committees, etc.</a>
 
 - Chair of the [Rioxx: The Research Outputs Metadata Schema](https://rioxx.net/) Governance Group (2019-2024), Governance Group member (2024- )
+- [EThOS](https://en.wikipedia.org/wiki/E-Theses_Online_Service) Advisory Group member (2024- )
 - Committee member (Technical Officer) of the [United Kingdom Council of Research Repositories (UKCoRR)](http://ukcorr.org/) (2018-2024)
 - UKRI Open Access Policy, Technical Requirements Project Group (2023-2024)
 - [CORE Advisory Board Member](https://core.ac.uk/governance/advisory) (2023-)
 - Member of the [Jisc Digital Research Community Council](https://www.jisc.ac.uk/get-involved/digital-research-community-group) (2020-2024)
 - [CORE Ambassador ](https://blog.core.ac.uk/2019/10/16/core-ambassador-george-macgregor/)(2019-2023)
 - Core dev for the [Open Science MOOC](https://opensciencemooc.eu/) (2019-2021)
-- Member of the [CASRAI Open Access Working Group](http://casrai.org/standards/subject-groups/open-access) (2014-2016)
+- Member of the [CASRAI Open Access Working Group](https://en.wikipedia.org/wiki/Consortia_Advancing_Standards_in_Research_Administration_Information) (2014-2016)
 - Active member of the UK [PURE](http://www.elsevier.com/solutions/pure) Repository and Open Access Working Group (2013-2017)
-- Steering Group member for the [High-Level Thesaurus (HILT)](http://hilt.cdlr.strath.ac.uk/) project based at the [Centre for Digital Library Research](http://www.strath.ac.uk/cdlr/) ([University of Strathclyde](http://www.strath.ac.uk/)) and [EDINA](http://www.edina.ac.uk/) ([University of Edinburgh](http://www.ed.ac.uk/)) (2007-2009).
+- Steering Group member for the [High-Level Thesaurus (HILT)](http://web.archive.org/web/20070620035508/http://hilt.cdlr.strath.ac.uk/hilt4/index.html) project based at the [Centre for Digital Library Research](https://en.wikipedia.org/wiki/University_of_Strathclyde_Faculty_of_Science#Centre_for_Digital_Library_Research) ([University of Strathclyde](http://www.strath.ac.uk/)) and [EDINA](http://www.edina.ac.uk/) ([University of Edinburgh](http://www.ed.ac.uk/)) (2007-2009).
 - I have reviewed papers for [The Journal of the Association for Information Science and Technology (JASIST)](https://asistdl.onlinelibrary.wiley.com/journal/23301643), [MDPI Systems](https://www.mdpi.com/journal/systems), [Program: Electronic Library & Information Systems](https://www.emerald.com/insight/publication/issn/0033-0337), [MDPI Publications](https://www.mdpi.com/journal/publications), [Journal of Digital Information (JoDI)](http://journals.tdl.org/jodi/), [Interactive Technology & Smart Education](https://www.emerald.com/insight/publication/issn/1741-5659), [Global Knowledge, Memory and Communication](https://www.emeraldgrouppublishing.com/journal/gkmc) and [Library Review](https://www.emerald.com/insight/publication/issn/0024-2535), [Accounting Education: An International Journal](http://www.tandfonline.com/toc/raed20/current), [Open Repositories Conference](https://www.openrepositories.org/), and books for [Routledge](https://www.routledge.com/) and [Chandos Publishing](https://www.elsevier.com/books-and-journals/chandos-publishing). 
 - Committee member of the [CILIP](http://www.cilip.org.uk/default.cilip) [MmIT](https://www.cilip.org.uk/members/group_content_view.asp?group=201307&id=688353) North West branch. (2008-2011) 
 - Associate Editor of the international journal [Library Review](https://www.emerald.com/insight/publication/issn/0024-2535) (2006 to 2012). 
