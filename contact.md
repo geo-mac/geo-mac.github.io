@@ -16,8 +16,8 @@ Glasgow, G12 8QE
 
 **Email:** [george.macgregor@glasgow.ac.uk](mailto:george.macgregor@glasgow.ac.uk)  
 **FOAF:** [george.ttl](/george.ttl)  
-**Fediverse** [@g3om4c@code4lib.social](https://code4lib.social/@g3om4c)
-**Bridgey Fed (to Bluesky)** [@g3om4c.code4lib.social.ap.brid.gy](https://bsky.app/profile/g3om4c.code4lib.social.ap.brid.gy)
+**Fediverse** [@g3om4c@code4lib.social](https://code4lib.social/@g3om4c)  
+**Bridgey Fed (to Bluesky)** [@g3om4c.code4lib.social.ap.brid.gy](https://bsky.app/profile/g3om4c.code4lib.social.ap.brid.gy)  
 **ORCID:** [0000-0002-8482-3973](http://orcid.org/0000-0002-8482-3973)  
 **ISNI:** [0000 0005 0661 3489](https://isni.org/isni/0000000506613489)    
 **GitHub:** [geo-mac](https://github.com/geo-mac)  
