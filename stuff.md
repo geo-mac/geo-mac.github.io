@@ -128,9 +128,10 @@ Some publications can be discovered via: [Enlighten: Publications](https://eprin
 
 - Chair of the [Rioxx: The Research Outputs Metadata Schema](https://rioxx.net/) Governance Group (2019-2024), Governance Group member (2024- )
 - [EThOS](https://en.wikipedia.org/wiki/E-Theses_Online_Service) Advisory Group member (2024- )
+- [COAR Resource Types Vocabulary v.4](https://vocabularies.coar-repositories.org/resource_types/), Danish translation (2024- )
+- [CORE Advisory Board Member](https://core.ac.uk/governance/advisory) (2023-)
 - Committee member (Technical Officer) of the [United Kingdom Council of Research Repositories (UKCoRR)](http://ukcorr.org/) (2018-2024)
 - UKRI Open Access Policy, Technical Requirements Project Group (2023-2024)
-- [CORE Advisory Board Member](https://core.ac.uk/governance/advisory) (2023-)
 - Member of the [Jisc Digital Research Community Council](https://www.jisc.ac.uk/get-involved/digital-research-community-group) (2020-2024)
 - [CORE Ambassador ](https://blog.core.ac.uk/2019/10/16/core-ambassador-george-macgregor/)(2019-2023)
 - Core dev for the [Open Science MOOC](https://opensciencemooc.eu/) (2019-2021)
