@@ -127,7 +127,7 @@ Some publications can be discovered via: [Enlighten: Publications](https://eprin
 ## <a id="activities">./ Activities, networks, committees, etc.</a>
 
 - Member: [Rioxx: The Research Outputs Metadata Schema](https://rioxx.net/) Governance Group (2024- )
-- [EThOS](https://en.wikipedia.org/wiki/E-Theses_Online_Service) Advisory Group member (2024- )
+- Advisory Group member: [EThOS](https://en.wikipedia.org/wiki/E-Theses_Online_Service) (2024- )
 - Member: [Jisc Digital Transformation Library Lens (DTLL) Task and Finish Group](https://www.jisc.ac.uk/guides/digital-transformation-in-higher-education) (2024- )
 - Chair: [Rioxx: The Research Outputs Metadata Schema](https://rioxx.net/) Governance Group (2019-2024) 
 - [COAR Resource Types Vocabulary v.3.2](https://vocabularies.coar-repositories.org/resource_types/), Danish translation (2024)
