@@ -2,7 +2,7 @@
 
 ![DonMusic](https://geo-mac.github.io/images/depiction.webp)
 
-My name is George.  My interests are in structured open data (esp. within open repository contexts), resource discovery, distributed digital libraries & repositories, and human-computer interaction (HCI).
+My name is George.  My background and expertise are in the related areas of resource discovery, distributed digital libraries and repositories, structured open data, and human-computer interaction (HCI).
 
 I am based within [Information Services ](https://www.gla.ac.uk/myglasgow/informationservices/) at the [University of Glasgow](https://www.gla.ac.uk/) as [Assistant Director - Digital Libraries](https://www.gla.ac.uk/stafflist/search/person/4edee6e48192/). I work and lead on repository and digital library things, while also supporting activities within [Open Research](https://en.wikipedia.org/wiki/Open_science), research discovery, and digital scholarship. My background is both as an academic and as a practitioner. I have a PhD in Computer & Information Sciences from the [iSchool](https://www.strath.ac.uk/research/subjects/computerinformationscience/strathclydeischoolresearchgroup/) at the University of Strathclyde, specializing in topics surrounding resource discovery in heterogeneous digital environments. I also happen to be an avid [Wikipedian](https://en.wikipedia.org/wiki/Wikipedia_community) and an advocate of the [knowledge commons](https://en.wikipedia.org/w/index.php?title=Knowledge_commons&oldid=1126170265).
 
