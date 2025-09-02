@@ -6,6 +6,7 @@ This page is a list of some stuff I have done, such as [publications](#publicati
 
 Some publications can be discovered via: [Enlighten: Publications](https://eprints.gla.ac.uk/view/author/72921.html), [Strathprints](https://strathprints.strath.ac.uk/view/author/375086.default.html), [Google Scholar](https://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ), [ORCID](https://orcid.org/0000-0002-8482-3973). 
 
+- Bradley, J., Fyson, W., [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html), McNicholl, R., Neugebauer, T., Petherbridge, K., Oakley, E., and Salter, J. (2025). [Towards EPrints 3.5: repository developments, roadmap, and governance improvements.](https://doi.org/10.5281/zenodo.15758606) Open Repositories 2025 (OR2025), Chicago, Illinois, USA. 
 - [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html) (2025) [Revisiting the importance of persistence in the scholarly web.](https://eprints.gla.ac.uk/352395/) *Times Higher Education (THE) Digital Universities UK Conference*, Lancaster University, Lancaster, 01-03 April. [Invited talk]
 - Knoth, P., Klein, M., [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html), Cancellieri, M. and Walk, P. (2024) [How to make repository content indexed and discoverable.](https://eprints.gla.ac.uk/320748/) *The 19th International Conference on Open Repositories*, Göteborg, Sweden, 03-06 June.
 - [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html), Knoth, P., Walk, P., Dowson, N., [Eadie, M.](http://eprints.gla.ac.uk/view/author/33238.html) [](http://orcid.org/0000-0003-3295-6915 "ORCID: 0000-0003-3295-6915") , Jones, B. and Martínez-García, A. (2024) [Exploring the concept of 'custodianship' in harvesting repository resources and graphing their relations : Rioxx version 3.0.](https://eprints.gla.ac.uk/320745/) *The 19th International Conference on Open Repositories*, Chalerms University of Technology, Göteborg, Sweden, 03-06 June.
@@ -130,6 +131,7 @@ Some publications can be discovered via: [Enlighten: Publications](https://eprin
 - Member: [Rioxx: The Research Outputs Metadata Schema](https://rioxx.net/) Governance Group (2024- )
 - Advisory Group member: [EThOS](https://en.wikipedia.org/wiki/E-Theses_Online_Service) (2024- )
 - Member: [Jisc Digital Transformation Library Lens (DTLL) Task and Finish Group](https://www.jisc.ac.uk/guides/digital-transformation-in-higher-education) (2024- )
+- Member: [EPrints Software Steering Group](https://github.com/eprints/MVG) (2024- )
 - Chair: [Rioxx: The Research Outputs Metadata Schema](https://rioxx.net/) Governance Group (2019-2024) 
 - [COAR Resource Types Vocabulary v.3.2](https://vocabularies.coar-repositories.org/resource_types/), Danish translation (2024)
 - [CORE Advisory Board Member](https://core.ac.uk/governance/advisory) (2023-)
@@ -162,6 +164,7 @@ Over the years I have been involved in a bunch of research and innovation projec
 [DIDET: Digital Libraries for Distributed Innovative Design Education and Teamwork](http://web.archive.org/web/20050122084345/http://dmem1.ds.strath.ac.uk/didet/)  
 [Glasgow Digital Library (GDL)](http://gdl.cdlr.strath.ac.uk)  
 [Scottish Portals for Education, Information and Research (SPEIR)](http://web.archive.org/web/20040906015511/http://speir.cdlr.strath.ac.uk/)  
+[Scottish Collections Network Extension (SCONE)](https://web.archive.org/web/20020528034928/http://scone.strath.ac.uk/) (pronounced /ˈskuːn/ as per [Scone Palace!](https://en.wikipedia.org/wiki/Scone_Palace))
 [Digital Information Office (DIO)](http://web.archive.org/web/20030622215646/http://dio.cdlr.strath.ac.uk/
 )  
 [Content Management System (CMS) Metadata Interoperability Project](https://web.archive.org/web/20070625105652/http://cms.cdlr.strath.ac.uk/)  
