@@ -131,11 +131,12 @@ Some publications can be discovered via: [Enlighten: Publications](https://eprin
 
 - Member: [Rioxx: The Research Outputs Metadata Schema](https://rioxx.net/) Governance Group (2024- )
 - Advisory Group member: [EThOS](https://en.wikipedia.org/wiki/E-Theses_Online_Service) (2024- )
-- Member: [Jisc Digital Transformation Library Lens (DTLL) Task and Finish Group](https://www.jisc.ac.uk/guides/digital-transformation-in-higher-education) (2024- )
 - Member: [EPrints Software Steering Group](https://github.com/eprints/MVG) (2024- )
+- Member: [Jisc Digital Transformation Library Lens (DTLL) Task and Finish Group](https://www.jisc.ac.uk/guides/digital-transformation-in-higher-education) (2024-2025)
 - Chair: [Rioxx: The Research Outputs Metadata Schema](https://rioxx.net/) Governance Group (2019-2024) 
 - [COAR Resource Types Vocabulary v.3.2](https://vocabularies.coar-repositories.org/resource_types/), Danish translation (2024)
 - [CORE Advisory Board Member](https://core.ac.uk/governance/advisory) (2023-)
+- Doctoral mentor, CoLIS 2025: 12th International Conference on [Conceptions of Library and Information Science (CoLIS)](https://en.wikipedia.org/wiki/Conceptions_of_Library_and_Information_Science),
 - Committee member (Technical Officer): [United Kingdom Council of Research Repositories (UKCoRR)](http://ukcorr.org/) (2018-2024)
 - Member: UKRI Open Access Policy, Technical Requirements Project Group (2023-2024)
 - Member: [Jisc Digital Research Community Council](https://www.jisc.ac.uk/get-involved/digital-research-community-group) (2020-2024)
