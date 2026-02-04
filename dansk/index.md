@@ -17,7 +17,3 @@ Før dette, jeg var...
 - en adjunkt i information management og systemer på [Liverpool John Moores Universitet](http://www.ljmu.ac.uk/)
 - forskningslektor på "[Centre for Digital Library Research](https://en.wikipedia.org/wiki/University_of_Strathclyde_Faculty_of_Science#Former_Departments_and_Research_Units)" i [institut for datalogi](https://www.strath.ac.uk/cis/) på [Universitet Strathclyde](http://www.strath.ac.uk/).
 - forskningsassistent på "[Centre for Digital Library Research](https://en.wikipedia.org/wiki/University_of_Strathclyde_Faculty_of_Science#Former_Departments_and_Research_Units)" i [institut for datalogi](https://www.strath.ac.uk/cis/) på [Universitet Strathclyde](http://www.strath.ac.uk/).
-
-Se min [FOAF profile](/george.ttl) for at få flere oplysninger.	 	
-
-[![Alt text](https://geo-mac.github.io/images/foaf8015.gif)](https://geo-mac.github.io/george.ttl)
