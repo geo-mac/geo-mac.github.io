@@ -6,7 +6,7 @@ This page is a list of some things I have done, such as [publications](#publicat
 
 Some publications can be discovered via: [Enlighten: Publications](https://eprints.gla.ac.uk/view/author/72921.html), [Strathprints](https://strathprints.strath.ac.uk/view/author/375086.default.html), [Google Scholar](https://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ), and [ORCID](https://orcid.org/0000-0002-8482-3973). 
 
-- [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html) and [Davidson, J.](https://eprints.gla.ac.uk/view/author/6974.html) (2026). *[Examining persistence of European open repository infrastructure and its diffusion in the scholarly record](https://doi.org/10.48550/arXiv.2601.04015)*. [Preprint]
+- [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html) and [Davidson, J.](https://eprints.gla.ac.uk/view/author/6974.html) (2026). [Examining persistence of European open repository infrastructure and its diffusion in the scholarly record](https://doi.org/10.48550/arXiv.2601.04015). *International Journal of Digital Curation* (accepted) [Preprint]
 - [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html) (2025). *[Repository persistence data and results of text mining scholarly literature.](https://doi.org/10.5525/gla.researchdata.2101)*. University of Glasgow. [Dataset]
 - Doshi, N., Campbell, J., [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html), Mawire, B., and Taylor, M. (2025). Reflections on scholarly content discovery. *Association of Learned and Professional Society Publishers Annual Conference 2025 (ALPSP 2025)*, Manchester, UK. [Invited panel session]
 - Bradley, J., Fyson, W., [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html), McNicholl, R., Neugebauer, T., Petherbridge, K., Oakley, E., and Salter, J. (2025). [Towards EPrints 3.5: repository developments, roadmap, and governance improvements.](https://doi.org/10.5281/zenodo.15758606) *Open Repositories 2025 (OR2025)*, Chicago, Illinois, USA. 
@@ -133,7 +133,7 @@ Some publications can be discovered via: [Enlighten: Publications](https://eprin
 
 - Member: [Rioxx: The Research Outputs Metadata Schema](https://rioxx.net/) Governance Group (2024- )
 - Advisory Group member: [EThOS](https://en.wikipedia.org/wiki/E-Theses_Online_Service) (2024- )
-- Member: [EPrints Software Steering Group](https://github.com/eprints/MVG) (2024- )
+- Member: [EPrints Software Steering Committee](https://github.com/eprints/MVG) (2024- )
 - Member: [Jisc Digital Transformation Library Lens (DTLL) Task and Finish Group](https://www.jisc.ac.uk/guides/digital-transformation-in-higher-education) (2024-2025)
 - Chair: [Rioxx: The Research Outputs Metadata Schema](https://rioxx.net/) Governance Group (2019-2024) 
 - [COAR Resource Types Vocabulary v.3.2](https://vocabularies.coar-repositories.org/resource_types/), Danish translation (2024)
