@@ -7,6 +7,7 @@ This page is a list of some things I have done, such as [publications](#publicat
 Some publications can be discovered via: [Enlighten: Publications](https://eprints.gla.ac.uk/view/author/72921.html), [Strathprints](https://strathprints.strath.ac.uk/view/author/375086.default.html), [Google Scholar](https://scholar.google.co.uk/citations?user=nDfa5GMAAAAJ), and [ORCID](https://orcid.org/0000-0002-8482-3973). 
 
 - [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html) and [Davidson, J.](https://eprints.gla.ac.uk/view/author/6974.html) (2026). [Examining persistence of European open repository infrastructure and its diffusion in the scholarly record](https://doi.org/10.2218/ijdc.v20i1.1116 ). *International Journal of Digital Curation* 20 (1). [[Preprint](https://doi.org/10.48550/arXiv.2601.04015)]
+- Scott Halls, R., Grieves, K., [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html) and Marchionni, P. (2026). [From ambition to action: How libraries contribute to shaping digital transformation](https://www.youtube.com/watch?v=nxTEDOLVTrY). *[Jisc Beyond the Technology podcast](https://www.youtube.com/playlist?list=PLbKeiLya4JyDyONndEexcmlOmwGmsUt9l)*. 20 March.
 - [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html) (2025). *[Repository persistence data and results of text mining scholarly literature.](https://doi.org/10.5525/gla.researchdata.2101)*. University of Glasgow. [Dataset]
 - Doshi, N., Campbell, J., [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html), Mawire, B., and Taylor, M. (2025). Reflections on scholarly content discovery. *Association of Learned and Professional Society Publishers Annual Conference 2025 (ALPSP 2025)*, Manchester, UK. [Invited panel session]
 - Bradley, J., Fyson, W., [Macgregor, G.](http://eprints.gla.ac.uk/view/author/72921.html), McNicholl, R., Neugebauer, T., Petherbridge, K., Oakley, E., and Salter, J. (2025). [Towards EPrints 3.5: repository developments, roadmap, and governance improvements.](https://doi.org/10.5281/zenodo.15758606) *Open Repositories 2025 (OR2025)*, Chicago, Illinois, USA. 
@@ -160,6 +161,7 @@ Some publications can be discovered via: [Enlighten: Publications](https://eprin
 
 Over the years I have been involved in a number of research and innovation projects:
 
+[Digital Transformation Library Lens - pilot project](https://www.jisc.ac.uk/taking-digital-transformation-forward-in-your-organisation/digital-transformation-library-lens)
 [Principles in Patterns (PiP)](http://www.principlesinpatterns.ac.uk/ "Principles in Patterns (PiP)")  
 [ExAEF Project (Exploring the efficacy of audio email feedback in information management assessment)](https://web.archive.org/web/20100820094237/http://www.ics.heacademy.ac.uk/)  
 [High-Level Thesaurus (HILT) phase IV](http://web.archive.org/web/20070620035508/http://hilt.cdlr.strath.ac.uk/hilt4/index.html)  
